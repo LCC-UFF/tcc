@@ -7,7 +7,7 @@ Informações sobre o **Departamento de Ciência da Computação** da UFF.
 
 ## Organizacional 
 - Reuniões de Departamento;
-- [Representantes nos Colegiados dos Cursos de Graduação](/src/tcc-representantes-colegiados.md).
+- [Representantes nos Colegiados dos Cursos de Graduação](src/tcc-representantes-colegiados.md).
 
 ---
 Editado usando https://dillinger.io/
