@@ -1,6 +1,12 @@
 # Representantes nos Colegiados de Cursos de Graduação
-- Engenharia Civil: **Andre Maués Brabo Pereira**.
-- Geofísica: **Ricardo Leiderman**.
 
+### Engenharia Civil: 
+TITULAR: **Andre Maués Brabo Pereira**. 
+SUPLENTE: 
+DTS
+
+### Geofísica: 
+TITULAR: **Ricardo Leiderman**.
+SUPLENTE: 
 
 
