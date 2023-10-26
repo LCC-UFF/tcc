@@ -9,34 +9,47 @@
 
 
 ### PREPARAÇÃO DO PARECER:
-- clicar em criar <Novo Documento>;
-- digitar no campo de texto a palavra “Parecer”;
-- marcar Nível de acesso <Restrito, Informação Pessoal> e clicar em <Confirmar Dados>;
-- clicar em <Editar Conteúdo>
+- clicar em criar "Novo Documento";
+- digitar no campo de texto a palavra "Parecer";
+- marcar Nível de acesso "Restrito, Informação Pessoal" e clicar em "Confirmar Dados";
+- clicar em "Editar Conteúdo"
 
 **Conteúdo do Parecer:**
+
 Assunto: Parecer sobre dispensa de disciplina
+
 Interessado: NOME_DO_INTERESSADO
+
 Parecer sobre dispensa da disciplina NOME_DA_DISCIPLINA
+
 Senhor Chefe do Departamento de Ciência da Computação,
+
 I. RELATÓRIO
+
 A interessada solicita dispensa da disciplina xxxxx, TCC00xxx, usandocomo argumento já ter cursado e sido aprovada na disciplina xxxx, CODxxx, na UNIVERSIDADE xxxxxx.
+
 II. FUNDAMENTAÇÃO
+
 A disciplina apontada como equivalente à disciplina objeto da solicitação foi cursada em período anterior ao início dos estudos do aluno na UFF, conforme o item a do parágrafo primeiro do artigo 86 do Regulamento dos Cursos de Graduação (Resolução CEP 001/2015);
+
 A disciplina cursada possui carga horária superior (80h) à da disciplina objeto da dispensa (60h), conforme o item b do parágrafo primeiro do artigo 86 do Regulamento dos Cursos de Graduação (Resolução CEP 001/2015); e
 O conteúdo programático da referida disciplina cursada equivale ao da disciplina xxxx (TCC00xxx).
+
 III. CONCLUSÃO
+
 Sou de parecer favorável à solicitação de dispensa da disciplina xxxx (TCC00xxx) efetuada pela interessada.
 
 
 ### PREPARAÇÃO DO DESPACHO:
-- clicar em criar <Novo Documento>;
-- digitar no campo de texto a palavra “Despacho”;
-- marcar Nível de acesso <Público> e clicar em <Confirmar Dados>;
-- clicar em <Editar Conteúdo>
+- clicar em criar "Novo Documento";
+- digitar no campo de texto a palavra "Despacho";
+- marcar Nível de acesso "Público" e clicar em "Confirmar Dados";
+- clicar em "Editar Conteúdo"
 
 **Conteúdo do Despacho:**
+
 Para Coordenação do Curso de xxxxxx.
+
 A CHEFIA DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUMINENSE, no uso de suas atribuições legais e regulamentares, considera DEFERIDA a dispensa da disciplina xxxx - TCC00xxxx pedida por xxxxxx conforme parecer técnico anexado no processo. Encaminho o processo para Coordenação do Curso de xxxxxx.
 
 
