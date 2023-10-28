@@ -6,7 +6,7 @@
 - A secretaria do TCC comunica (por e-mail) o docente responsável por fazer o PARECER, que o processo foi atribuído para ele, enviando as informações que são fundamentais para agilizar a sua preparação;
 - O docente faz o PARECER e atribui de volta o processo para a secretaria do TCC (ver __PREPARAÇÃO DO PARECER__);
 - A secretaria do TCC prepara o DESPACHO e avisa a chefia para assinar (ver __PREPARAÇÃO DO DESPACHO__);
-- A chefia do TCC verificar se o processo já tem PARECER e DESPACHO, isso indica que a chefia já pode assinar;
+- A chefia do TCC verifica se o processo já tem PARECER e DESPACHO, isso indica que a chefia já pode assinar;
 - A chefia do TCC assina o DESPACHO e envia o processo de volta para a coordenação do curso.
 
 ### INFORMAÇÕES DO PROCESSO:
