@@ -22,6 +22,8 @@
 - códigos das disciplinas na instituição de origem: CODIGO_ORIGEM
 - nomes das disciplinas na instituição de origem: DISCIPLINA_ORIGEM
 
+---
+
 ### PREPARAÇÃO DO PARECER:
 - clicar em criar "Novo Documento";
 - digitar no campo de texto a palavra "Parecer";
@@ -44,6 +46,8 @@ III. CONCLUSÃO
 Sou de parecer favorável à solicitação de dispensa da disciplina NOME_DA_DISCIPLINA (CODIGO_DA_DISCIPLINA) efetuada pela interessada.
 ~~~
 
+---
+
 ### PREPARAÇÃO DO DESPACHO:
 - clicar em criar "Novo Documento";
 - digitar no campo de texto a palavra "Despacho";
@@ -56,10 +60,14 @@ Para Coordenação do Curso de COORDENAÇÃO_DO_CURSO.
 A CHEFIA DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUMINENSE, no uso de suas atribuições legais e regulamentares, considera DEFERIDA a dispensa da disciplina NOME_DA_DISCIPLINA - CODIGO_DA_DISCIPLINA pedida por NOME_DO_INTERESSADO conforme parecer técnico anexado no processo. Encaminho o processo para Coordenação do Curso de COORDENAÇÃO_DO_CURSO.
 ~~~
 
+---
+
 ### CONCLUSÃO DO PROCESSO:
 - ASSINAR DESPACHO;
 - ENVIAR PROCESSO para a coordenação.
  
+
+---
 
 ### Referências:
 <https://www.uff.br/sites/default/files/sites/default/files/imagens-das-noticias/passo_a_passo_-_processo_de_dispensa_de_disciplina_-_aluno_v.03.pdf>
