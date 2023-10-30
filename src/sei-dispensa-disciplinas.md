@@ -2,9 +2,10 @@
 
 ## Fluxo de atividades no TCC:
 - A coordenação do curso interessada envia o __processo__ para o TCC;
-- A secretaria do TCC abre o __requerimento__ e o __despacho__, e em seguida extrai as informações importantes para preparar o PARECER e o DESPACHO do TCC (ver __INFORMAÇÕES DO PROCESSO__);
+- A secretaria do TCC abre o __requerimento__ e o __despacho__ da coordenação, e em seguida extrai as informações importantes para preparar o PARECER e o DESPACHO do TCC (ver __INFORMAÇÕES DO PROCESSO__);
 - No __despacho__ da coordenação pode-se encontrar a lista com as disciplinas a serem analisadas pelo TCC;
-- A secretaria do TCC comunica (por e-mail) o docente responsável por fazer o PARECER, que o processo foi atribuído para ele, enviando as informações que são fundamentais para agilizar a sua preparação;
+- A secretaria do TCC comunica (por e-mail) o docente responsável por fazer o PARECER, que o processo foi atribuído para ele, enviando as informações que são fundamentais para agilizar a sua preparação (ver __PREPARAÇÃO DO E-MAIL__);
+- Na base de conhecimento do TCC tem a lista dos docentes representantes de colegiado de cursos;
 - O docente faz o PARECER e atribui de volta o processo para a secretaria do TCC (ver __PREPARAÇÃO DO PARECER__);
 - A secretaria do TCC prepara o DESPACHO e avisa a chefia para assinar (ver __PREPARAÇÃO DO DESPACHO__);
 - A chefia do TCC verifica se o processo já tem PARECER e DESPACHO, isso indica que a chefia já pode assinar;
@@ -13,7 +14,7 @@
 ---
 
 ### INFORMAÇÕES DO PROCESSO:
-- número do processo;
+- número do processo: NÚMERO_DO_PROCESSO;
 - coordenação do curso: COORDENAÇÃO_DO_CURSO;
 - nome do interessado: NOME_DO_INTERESSADO;
 - nome da instituição de origem: INSTITUICAO_ORIGEM
@@ -21,6 +22,24 @@
 - nomes das disciplinas a serem analisadas: NOME_DA_DISCIPLINA
 - códigos das disciplinas na instituição de origem: CODIGO_ORIGEM
 - nomes das disciplinas na instituição de origem: DISCIPLINA_ORIGEM
+
+---
+
+### PREPARAÇÃO DO E-MAIL:
+- Para: Representante do colegiado de curso.
+- Assunto: Processo de Dispensa de Disciplina.
+
+**Conteúdo do E-mail:**
+~~~
+Olá professor,
+Estou encaminhando para emissão de parecer o processo:
+Processo nº NÚMERO_DO_PROCESSO
+Coordenação: COORDENAÇÃO_DO_CURSO
+Interessado: NOME_DO_INTERESSADO
+Instituição de origem: INSTITUICAO_ORIGEM
+Disciplina:
+CODIGO_DA_DISCIPLINA -  NOME_DA_DISCIPLINA
+~~~
 
 ---
 

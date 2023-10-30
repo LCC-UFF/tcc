@@ -5,7 +5,7 @@ Informações sobre o **Departamento de Ciência da Computação** da UFF.
 - [Pessoal](src/org-pessoal.md).
 - [Representantes nos Colegiados dos Cursos de Graduação](src/org-representantes-colegiados.md).
 - [Comissão de Avaliação de Progressão](src/org-cap.md).
-- [Regras de Carga Horária e Afastamento](src/regras-ch.md).
+- [Regras de Carga Horária e Afastamento](src/rorg-regras-ch.md).
 - [Professores Substitutos](src/org-substitutos.md).
 
 ## Reuniões de Departamento
