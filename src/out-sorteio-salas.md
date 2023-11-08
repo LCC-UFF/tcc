@@ -10,7 +10,8 @@
 
 ### INFORMAÇÕES DO FORMULÁRIO:
 - Modelo de Formulário: https://forms.gle/j8Md599TNW9dGX259;
-![Formulário](/../pics/fig-form-sorteio-salas.png)
+
+![Formulário](/../main/pics/fig-form-sorteio-salas.png)
 
 ---
 
