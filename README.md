@@ -23,7 +23,7 @@ Informações sobre o **Departamento de Ciência da Computação** da UFF.
 - Afastamento Exterior.
 
 ## Outros
-- Sorteio de Sala de Professores.
+- [Sorteio de Sala de Professores](src/out-sorteio-salas.md).
 - Lembrete sobre AULAS durante a Agenda Acadêmica.
 - [Acesso aos Sistemas da UFF](src/out-acesso-sistemas.md).
 
