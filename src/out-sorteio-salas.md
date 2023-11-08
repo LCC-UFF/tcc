@@ -2,38 +2,34 @@
 
 ## Fluxo de atividades no TCC:
 - Preparar FORMULÁRIO no GoogleForms (ver __INFORMAÇÕES DO FORMULÁRIO__);
-- Enviar e-mail para os professores com o link para o FORMULÁRIO, dando um prazo para preenchimento (ver __PREPARAÇÃO DO E-MAIL__);
+- Enviar e-mail para os professores com o link para o FORMULÁRIO, dando um prazo para preenchimento (ver __PREPARAÇÃO DO E-MAIL PARA O SORTEIO__);
 - Anexar no e-mail a lista com a ordem de prioridade para escolha das salas (ver __LISTA PRIORIDADES__);
-- Informar os professores, também por e-mail, qual professores teve a sala alocada para si (ver __PREPARAÇÃO DO E-MAIL__);
+- Enviar e-mail para os professores informando qual professore ficará com a sala sorteada (ver __PREPARAÇÃO DO E-MAIL COM O RESULTADO__);
 
 ---
 
 ### INFORMAÇÕES DO FORMULÁRIO:
-- número do processo: NÚMERO_DO_PROCESSO;
-- coordenação do curso: COORDENAÇÃO_DO_CURSO;
-- nome do interessado: NOME_DO_INTERESSADO;
-- nome da instituição de origem: INSTITUICAO_ORIGEM
-- códigos das disciplinas a serem analisadas: CODIGO_DA_DISCIPLINA
-- nomes das disciplinas a serem analisadas: NOME_DA_DISCIPLINA
-- códigos das disciplinas na instituição de origem: CODIGO_ORIGEM
-- nomes das disciplinas na instituição de origem: DISCIPLINA_ORIGEM
+- Modelo de Formulário: https://forms.gle/j8Md599TNW9dGX259;
+![Formulário](src/pics/fig-form-sorteio-salas.png)
 
 ---
 
-### PREPARAÇÃO DO E-MAIL:
-- Para: Representante do colegiado de curso.
-- Assunto: Processo de Dispensa de Disciplina.
+### PREPARAÇÃO DO E-MAIL PARA O SORTEIO:
+- Para: Todos os professores do TCC.
+- Assunto: Levantamento de interessados na sala XXX.
 
 **Conteúdo do E-mail:**
 ~~~
-Olá professor,
-Estou encaminhando para emissão de parecer o processo:
-Processo nº NÚMERO_DO_PROCESSO
-Coordenação: COORDENAÇÃO_DO_CURSO
-Interessado: NOME_DO_INTERESSADO
-Instituição de origem: INSTITUICAO_ORIGEM
-Disciplina:
-CODIGO_DA_DISCIPLINA -  NOME_DA_DISCIPLINA
+A sala XXX (antiga do PROFESSOR) está liberada. Estamos, então, iniciando a coleta dos interessados em ocupar essa sala. Pedimos aos interessados que preencham o formulário abaixo.
+
+Sala XXX (antiga do PROFESSOR): https://forms.gle/j8Md599TNW9dGX259
+
+O formulário permanecerá aberto até o final da próxima XXX-feira, dia XX/XX/XXXX.
+
+Ao término desse prazo, usaremos a lista de escolha de salas em anexo para selecionar o professor com maior prioridade.
+
+Att,
+Chefe do TCC
 ~~~
 
 ---
