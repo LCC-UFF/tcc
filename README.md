@@ -18,6 +18,7 @@ Informações sobre o **Departamento de Ciência da Computação** da UFF.
 - Disciplina de TCC
 
 ## Processos no SEI
+- [Gestão dos Processos](src/sei-gestao-processos.md).
 - [Dispensa de Disciplinas](src/sei-dispensa-disciplinas.md).
 - Afastamento no Pais.
 - Afastamento Exterior.
