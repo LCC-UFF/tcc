@@ -9,7 +9,7 @@ Para demais DTS-TCC, veja página [DTS-TCC](org-dts.md).
     - Designa para "Banca para Revisão de Prova da Disciplina TCC-00.326-Programação de Computadores (turma; B1)"
         * Troy (presidente), Dante, Kowada
 
-1. Nº 02 de 07 de Maio de 2021
+1. Nº 02 de 07 de Maio de 2021 (revogada pela DTS-TCC nº 06 de 24/09/2021)
     - Ementa: "Altera os representantes do TCC no Colegiado do Curso de Engenharia Agrícola e Ambiental"
     - Revoga:
         * DTS-TCC nº 13 de 23/07/2018
@@ -39,7 +39,7 @@ Para demais DTS-TCC, veja página [DTS-TCC](org-dts.md).
 1. Nº 06 de 24 de Setembro de 2021 (revogada pela DTS-TCC nº 08 de 18/10/2023)
     - Ementa: "Altera os representantes do TCC no Colegiado do Curso de Engenharia Agrícola e Ambiental"
     - Revoga:
-        * DTS-TCC nº 13 de 23/07/2018, sic DTS-TCC nº 02 de 07/05/2021
+        * DTS-TCC nº 13 de 23/07/2018, sic DTS-TCC nº 02 de 07/05/2021 OK 
     - Designa para "Colegiado do Curso de Engenharia Agrícola e Ambiental":
         * Igor Machado Coelho (titular), Leandro Santiago de Araújo (suplente)
 
