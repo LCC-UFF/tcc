@@ -1,12 +1,12 @@
 # Determinação de Serviço DTS - TCC
 
-Para demais DTS, veja página [DTS](org-dts.md).
+Para demais DTS-TCC, veja página [DTS-TCC](org-dts.md).
 
 ## 2021
 
 1. Nº 01 de 08 de Janeiro de 2021
     - Ementa: "Constitui Banca para revisão de prova"
-    - Designa para "Banca para Revisão de Prova da Disciplina TCC-00.326-Programação de Computadores (turma; B1)" de aluno XXX
+    - Designa para "Banca para Revisão de Prova da Disciplina TCC-00.326-Programação de Computadores (turma; B1)"
         * Troy (presidente), Dante, Kowada
 
 1. Nº 02 de 07 de Maio de 2021
@@ -16,10 +16,10 @@ Para demais DTS, veja página [DTS](org-dts.md).
     - Designa para "Colegiado do Curso de Engenharia Agrícola e Ambiental":
         * Bruno Lopes (titular), Igor Machado Coelho (suplente)
 
-1. Nº 03 de 02 de Setembro de 2021
+1. Nº 03 de 02 de Setembro de 2021 (revogada pela DTS-TCC nº 01 de 05/01/2022)
     - Ementa: "Altera Comissão para Planejamento do Quadro de Horários do Departamento de Ciência da  Computação"
     - Revoga:
-        * DTS-TCC nº 01 de 08/01/2020
+        * DTS-TCC nº 01 de 08/01/2020 OK
     - Designa para "Comissão Permanente para Planejamento do Quadro de Horários do Departamento de Ciência da Computação - (TCC)":
         * Simone (presidente), Bruno, Célio, Daniel, Loana, Luciana Salgado, Kowada, Regina, Troy
 
@@ -36,7 +36,7 @@ Para demais DTS, veja página [DTS](org-dts.md).
         * Flávio Seixas (presidente), Paulo Pires, Troy (titulares)
         * Antonio Augusto Rocha (suplente)
 
-1. Nº 06 de 24 de Setembro de 2021
+1. Nº 06 de 24 de Setembro de 2021 (revogada pela DTS-TCC nº 08 de 18/10/2023)
     - Ementa: "Altera os representantes do TCC no Colegiado do Curso de Engenharia Agrícola e Ambiental"
     - Revoga:
         * DTS-TCC nº 13 de 23/07/2018, sic DTS-TCC nº 02 de 07/05/2021
@@ -55,7 +55,7 @@ Para demais DTS, veja página [DTS](org-dts.md).
     - Designa para "Comissão para avaliação de pedido de alteração de regime de trabalho do Prof. Christiano Oliveira Braga":
         * Simone (presidente), Vinod, Protti, Isabel Rosseti, Regina
 
-1. Nº 09 de 20 de Outubro de 2021
+1. Nº 09 de 20 de Outubro de 2021 (revogada pela DTS-TCC nº 07 de 11/04/2022)
     - Ementa: "Altera os representantes do TCC no Colegiado de Curso de Ciência da Computação"
     - Revoga:
         * DTS-TCC nº 05 de 21/03/2019
@@ -63,4 +63,4 @@ Para demais DTS, veja página [DTS](org-dts.md).
         * Raquel, Isabel Rosseti, Marcone Antonio, Aline Nascimento, Simone, Kowada (titulares)
         * Loana, Dante, Cristina Boeres, Daniel, José Raphael, Troy (suplentes)
 
-Para demais DTS, veja página [DTS](org-dts.md).
+Para demais DTS-TCC, veja página [DTS-TCC](org-dts.md).

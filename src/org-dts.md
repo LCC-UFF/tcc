@@ -1,5 +1,7 @@
 # Determinação de Serviço DTS - TCC
 
+Coletânea das Determinação de Serviço (DTS) do Departamento de Ciência da Computação (TCC) da Universidade Federal Fluminense (UFF).
+
 Para anos anteriores, veja: [DTS-2022](org-dts-2022.md) [DTS-2021](org-dts-2021.md) [DTS-2020](org-dts-2020.md)
 
 ## 2023
@@ -7,14 +9,14 @@ Para anos anteriores, veja: [DTS-2022](org-dts-2022.md) [DTS-2021](org-dts-2021.
 1. Nº 01 de 16 de Janeiro de 2023
     - Ementa: "Altera Comissão para Planejamento do Quadro de Horários do Departamento de Ciência da  Computação"
     - Revoga:
-        * DTS-TCC nº 11 de 14/06/2022
+        * DTS-TCC nº 11 de 14/06/2022 OK
     - Designa para "Comissão Permanente para Planejamento do Quadro de Horários do Departamento de Ciência da Computação - (TCC)":
         * Bruno (presidente), Loana, Simone, Marco Antonio, Troy, Vanessa, Luciana Salgado, Leandro Fernandes, Célio, Marcelo Fornazin
 
 1. Nº 02 de 27 de Março de 2023
     - Ementa: "Altera os representantes do TCC no Colegiado de Bacharelado em Sistemas de Informação"
     - Revoga:
-        * DTS-TCC nº 02 de 29/01/2020 
+        * DTS-TCC nº 02 de 29/01/2020 OK
     - Designa para "Colegiado de Bacharelado em Sistemas de Informação":
         * Viterbo (titular)
         * Daniela (titular) Simone (suplente)
@@ -25,7 +27,7 @@ Para anos anteriores, veja: [DTS-2022](org-dts-2022.md) [DTS-2021](org-dts-2021.
 
 1. Nº 03 de 03 de Abril de 2023
     - Ementa: "Constitui Banca de Exame de Proficiência para a Disciplina TCC00326-Programação de Computadores e TCC00308-Programação de Computadores I"
-    - Designa para "Banca de Exame de Proficiência para a Disciplina TCC00326-Programação de Computadores e TCC00308-Programação de Computadores I" de aluno XXX
+    - Designa para "Banca de Exame de Proficiência para a Disciplina TCC00326-Programação de Computadores e TCC00308-Programação de Computadores I"
         * Simone (presidente), Loana, Yuri
 
 1. Nº 04 de 13 de Abril de 2023
@@ -58,18 +60,18 @@ Para anos anteriores, veja: [DTS-2022](org-dts-2022.md) [DTS-2021](org-dts-2021.
 
 1. Nº 07 de 30 de Agosto de 2023
     - Ementa: "Cria Bancas de Exame de Proficiência para as Disciplinas TCC00308-Programação de Computadores I, TCC00346-Laboratório de Resolução de Problemas e TCC00347-Programação Estruturada"
-    - Designa para "Banca de Exame de Proficiência para a Disciplina TCC00308-Programação de Computadores I" de aluno XXX
+    - Designa para "Banca de Exame de Proficiência para a Disciplina TCC00308-Programação de Computadores I"
         * Dante (presidente), Leandro Fernandes, Patrick
-    - Designa para "Banca de Exame de Proficiência para a Disciplina TCC00346-Laboratório de Resolução de Problemas" de aluno XXX
+    - Designa para "Banca de Exame de Proficiência para a Disciplina TCC00346-Laboratório de Resolução de Problemas"
         * Mario Benevides (presidente), Leandro Augusto Fernandes, Carlos Martinhon
-    - Designa para "Banca de Exame de Proficiência para a Disciplina TCC00347-Programação Estruturada" de aluno XXX
+    - Designa para "Banca de Exame de Proficiência para a Disciplina TCC00347-Programação Estruturada"
         * Isabel Rosseti (presidente), Lauro, Patrick
     - Designações não correspondem a funções gratificadas
 
 1. Nº 08 de 18 de Outubro de 2023
     - Ementa: "Altera os representantes do TCC no Colegiado do Curso de Engenharia Agrícola e Ambiental"
     - Revoga:
-        * DTS-TCC nº 06 de 24/09/2021
+        * DTS-TCC nº 06 de 24/09/2021 OK
     - Designa para "Colegiado do Curso de Engenharia Agrícola e Ambiental":
         * Leandro Santiago (titular)
         * Taiane Ramos (suplente)
@@ -77,8 +79,8 @@ Para anos anteriores, veja: [DTS-2022](org-dts-2022.md) [DTS-2021](org-dts-2021.
 1. Nº 09 de 11 de Novembro de 2023
     - Ementa: "Altera Comissão de Avaliação de Desempenho de Docentes do TCC"
     - Revoga:
-        * DTS-TCC nº 12 de 01/07/2022
+        * DTS-TCC nº 12 de 01/07/2022 OK
     - Designa para "Comissão de Avaliação de Desempenho de Docentes do TCC" para fins de Progressão Horizontal e Vertical:
         * Simone (presidente), Aline Paes, Isabel Rosseti, Cristina Boeres
 
-Para demais DTS, veja página [DTS](org-dts.md).
+Para demais DTS-TCC, veja página [DTS-TCC](org-dts.md).

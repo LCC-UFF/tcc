@@ -1,13 +1,13 @@
 # Determinação de Serviço DTS - TCC
 
-Para demais DTS, veja página [DTS](org-dts.md).
+Para demais DTS-TCC, veja página [DTS-TCC](org-dts.md).
 
 ## 2022
 
 1. Nº 01 de 05 de Janeiro de 2022 (revogada pela DTS-TCC nº 11 de 14/06/2022)
     - Ementa: "Altera Comissão para Planejamento do Quadro de Horários do Departamento de Ciência da  Computação"
     - Revoga:
-        * DTS-TCC nº 03 de 02/09/2021
+        * DTS-TCC nº 03 de 02/09/2021 OK
     - Designa para "Comissão Permanente para Planejamento do Quadro de Horários do Departamento de Ciência da Computação - (TCC)":
         * Bruno, Simone, Célio, Daniel, Loana, Luciana, Kowada, Regina, Troy e Fornazin
 
@@ -19,17 +19,17 @@ Para demais DTS, veja página [DTS](org-dts.md).
         * Bruno (presidente)
 1. Nº 03 de 07 de Fevereiro de 2022
     - Ementa: "Constitui Banca para revisão de prova"
-    - Designa para "Banca para Revisão de Prova da Disciplina TCC-00.328-Programação Orientada a Objetos (turma; A1)" de aluno XXX
+    - Designa para "Banca para Revisão de Prova da Disciplina TCC-00.328-Programação Orientada a Objetos (turma; A1)"
         * Isabel Rosseti, Anselmo e Flávia Bernardini
         * Isabel Rosseti (presidente)
 1. Nº 04 de 16 de Fevereiro de 2022
     - Ementa: "Constitui Banca para revisão de prova"
-    - Designa para "Banca para Revisão de Prova da Disciplina TCC-00.224-Sistemas Operacionais para Sistemas de Informação (turma; A1)" de aluno XXX
+    - Designa para "Banca para Revisão de Prova da Disciplina TCC-00.224-Sistemas Operacionais para Sistemas de Informação (turma; A1)"
         * Simone, Leandro Santiago, Boeres
         * Simone (presidente)
 1. Nº 05 de 25 de Fevereiro de 2022
     - Ementa: "Constitui Banca para revisão de prova"
-    - Designa para "Banca para Revisão de Prova da Disciplina TCC-00.224-Sistemas Operacionais para Sistemas de Informação (turma; A1)" de aluno XXX
+    - Designa para "Banca para Revisão de Prova da Disciplina TCC-00.224-Sistemas Operacionais para Sistemas de Informação (turma; A1)"
         * Simone, Leandro Santiago, Boeres
         * Simone (presidente)
 1. Nº 06 de 15 de Março de 2022
@@ -41,7 +41,7 @@ Para demais DTS, veja página [DTS](org-dts.md).
 1. Nº 07 de 11 de Abril de 2022 (revogada pela DTS-TCC nº 17 de 24/10/2022)
     - Ementa: "Altera os representantes do TCC no Colegiado de Curso de Ciência da Computação"
     - Revoga:
-        * DTS-TCC nº 09 de 20/10/2021
+        * DTS-TCC nº 09 de 20/10/2021 OK
     - Designa para "Colegiado do Curso de Ciência da Computação":
         * Raquel, Isabel Rosseti, Marcone Antonio, Aline Nascimento, Vinod, Kowada (titulares)
         * Loana, Dante, Boeres, Daniel, José Raphael, Troy (suplentes)
@@ -73,7 +73,7 @@ Para demais DTS, veja página [DTS](org-dts.md).
 1. Nº 11 de 14 de Junho de 2022 (revogada pela DTS-TCC nº 01 de 16/01/2023)
     - Ementa: "Altera Comissão para Planejamento do Quadro de Horários do Departamento de Ciência da  Computação"
     - Revoga:
-        * DTS-TCC nº 01 de 05/01/2022 
+        * DTS-TCC nº 01 de 05/01/2022 OK
     - Designa para "Comissão Permanente para Planejamento do Quadro de Horários do Departamento de Ciência da Computação - (TCC)":
         * Bruno, Simone, Célio, Daniel, Loana, Luciana, Leandro Fernandes, Marco Antonio, Troy e Fornazin
 1. Nº 12 de 01 de Julho de 2022 (revogada pela DTS-TCC nº 09 de 11/11/2023)
@@ -84,12 +84,12 @@ Para demais DTS, veja página [DTS](org-dts.md).
         * Isabel Rosseti, Débora, Boeres, Simone
 1. Nº 13 de 21 de Julho de 2022
     - Ementa: "Constitui Banca para revisão de prova"
-    - Designa para "Banca para Revisão de Prova da Disciplina TCC-00.331-Estruturas de Dados para Sistemas de Informação (turma; A1)" de aluno XXX
+    - Designa para "Banca para Revisão de Prova da Disciplina TCC-00.331-Estruturas de Dados para Sistemas de Informação (turma; A1)"
         * Bruno, Isabel Rosseti, Boeres
         * Bruno (presidente)
 1. Nº 14 de 03 de Agosto de 2022
     - Ementa: "Constitui Banca para revisão de prova"
-    - Designa para "Banca para Revisão de Prova da Disciplina TCC-00.326-Programação de Computadores (turma; K-1)" de aluno XXX
+    - Designa para "Banca para Revisão de Prova da Disciplina TCC-00.326-Programação de Computadores (turma; K-1)"
         * Marco Antonio, Leandro Santiago, Luis Felipe
         * Marco Antonio (presidente)
 1. Nº 15 de 25 de Agosto de 2022
@@ -107,7 +107,7 @@ Para demais DTS, veja página [DTS](org-dts.md).
 1. Nº 17 de 24 de Outubro de 2022
     - Ementa: "Altera os representantes do TCC no Colegiado de Curso de Ciência da Computação"
     - Revoga:
-        * DTS-TCC nº 07 de 11/04/2022 
+        * DTS-TCC nº 07 de 11/04/2022 OK
     - Designa para "Colegiado do Curso de Ciência da Computação":
         * Raquel, Isabel Rosseti, Marcone Antonio, Aline Nascimento, Vinod, Kowada (titulares)
         * Troy, Dante, Boeres, Daniel, José Raphael, Loana (suplentes)
@@ -118,7 +118,7 @@ Para demais DTS, veja página [DTS](org-dts.md).
 1. Nº 19 de 27 de Outubro de 2022
     - Ementa: "Criação da Comissão de Acessibiliade para Pessoas com Deficiência do Departamento de Ciência da Computação"
     - Revoga:
-        * DTS-TCC nº 18 de 27/10/2022 
+        * DTS-TCC nº 18 de 27/10/2022 OK
     - Designa para "Comissão de Acessibiliade para Pessoas com Deficiência (PcD) do Departamento de Ciência da Computação":
         * Daniela, Flávio, Isabel Cafezeiro, Marco Antonio, Mariza, Raquel
 1. Nº 20 de 22 de Dezembro de 2022
@@ -128,4 +128,4 @@ Para demais DTS, veja página [DTS](org-dts.md).
     - Designa para "Comissão de Atividades Complementares (AC) do Departamento de Ciência da Computação":
         * Aline Nascimento, Raquel, Troy
 
-Para demais DTS, veja página [DTS](org-dts.md).
+Para demais DTS-TCC, veja página [DTS-TCC](org-dts.md).
