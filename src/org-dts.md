@@ -1,6 +1,6 @@
 # Determinação de Serviço DTS - TCC
 
-Para anos anteriores, veja: [DTS-2022](org-dts-2022.md) [DTS-2021](org-dts-2021.md)
+Para anos anteriores, veja: [DTS-2022](org-dts-2022.md) [DTS-2021](org-dts-2021.md) [DTS-2020](org-dts-2020.md)
 
 ## 2023
 
