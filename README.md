@@ -7,6 +7,7 @@ Informações sobre o **Departamento de Ciência da Computação** da UFF.
 - [Comissão de Avaliação de Progressão](src/org-cap.md).
 - [Regras de Carga Horária e Afastamento](src/rorg-regras-ch.md).
 - [Professores Substitutos](src/org-substitutos.md).
+- [Determinação de Serviço DTS](src/org-dts.md).
 
 ## Reuniões de Departamento
 - Convocação de Reunião de Departamento.
