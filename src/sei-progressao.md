@@ -9,7 +9,8 @@ Existem as seguintes classes/níveis:
 - Classe D - Associado - D1,D2,D3 e D4
 - Classe E - Titular
 
-Existe Aceleração de Promoção de A2 para C1, após estágio probatório.
+- OBS1: Existe PROGRESSÃO de A1 para A2, após 24 meses de posse (durante estágio probatório)
+- OBS2: Existe Aceleração de PROMOÇÃO de A2 para C1, após finalizado o estágio probatório (com 36 meses após a posse) e comprovação do título de doutor
 
 
 ### Rascunho do fluxo
