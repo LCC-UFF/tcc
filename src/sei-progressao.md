@@ -25,7 +25,7 @@ Existe Aceleração de Promoção de A2 para C1, após estágio probatório.
 1. A comissão anexa o "Parecer TCC" com relatório, fundamentação e conclusão
 1. O interessado anexa a Ata de aprovação do parecer do TCC
 1. Interessado envia diretamente à CPPD/ ou Chefia dá ciência com "Despacho TCC" com o seguinte texto e envia à CPPD:
-> TCC, em dd/mm/aaaa.
+- > TCC, em dd/mm/aaaa.
 >  1. Informo que estou ciente do(s) Relatório(s) de Atividade Docente (RAD) anexados pelo
 docente [digite aqui o nome do docente]:
    Relatório de Atividade Docente do período: [digite aqui a data do relatório]; e
