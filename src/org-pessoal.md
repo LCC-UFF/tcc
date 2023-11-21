@@ -77,3 +77,5 @@
 1. VANESSA BRAGANHOLO MURTA
 1. VANIA DE OLIVEIRA NEVES
 1. YURI ABITBOL DE MENEZES FROTA
+
+Veja a [lista com lattes e foto](./org-pessoal-lattes.md)
