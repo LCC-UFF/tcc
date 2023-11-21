@@ -5,6 +5,8 @@
 1. ALINE DE PAULA NASCIMENTO
 1. ALINE MARINS PAES CARVALHO
 1. ANDRE MAUES BRABO PEREIRA
+    - [lattes](http://lattes.cnpq.br/2778417967776066)
+    - <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4704301A1" width="100" />
 1. ANSELMO ANTUNES MONTENEGRO
 1. ANTONIO AUGUSTO DE ARAGAO ROCHA
 1. AURA CONCI
