@@ -70,3 +70,19 @@
 1. VANESSA BRAGANHOLO MURTA
 1. VANIA DE OLIVEIRA NEVES
 1. YURI ABITBOL DE MENEZES FROTA
+
+### Ex-Docentes
+
+- Andréa Magdaleno Magalhães
+    - [lattes](http://lattes.cnpq.br/4772260157089497)
+    - <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4129863P6" width="100" />
+- Celso da Cruz Carneiro Ribeiro
+- Cristina Nader Vaconcelos
+- José Henrique Carneiro de Araújo
+- Karina Mochetti Magalhães
+- Luis Marti Orosa
+- Marcos Kalinowsky
+- Mauricio Kischinhevsky
+- Milton Brown do Coutto Filho
+- Regina Célia Paula Leal Toledo
+- Victor Teixeira de Almeida
