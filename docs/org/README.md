@@ -8,8 +8,9 @@ Boletins de Serviço: https://boletimdeservico.uff.br/
 
 #### 2023
 
-- Nomeação Andre
+- Designação Andre
    * PORTARIA Nº 1.504 de 21 de agosto de 2023
+   * https://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=529&pagina=21&data=22/08/2023
 
 - Designação Igor
    * PORTARIA Nº 1.505 de 21 de agosto de 2023 (Boletim de Serviço 159-23)
