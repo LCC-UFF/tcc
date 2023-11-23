@@ -2,6 +2,7 @@
 Informações sobre o **Departamento de Ciência da Computação** da UFF.
 
 ## Organizacional 
+- [Documentos docs/org](docs/org/README.md).
 - [Pessoal](src/org-pessoal.md).
 - [Representantes nos Colegiados dos Cursos de Graduação](src/org-representantes-colegiados.md).
 - [Comissão de Avaliação de Progressão](src/org-cap.md).
