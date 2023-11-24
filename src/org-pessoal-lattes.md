@@ -39,6 +39,8 @@
 1. LAURO EDUARDO KOZOVITS
 1. LEANDRO AUGUSTO FRATA FERNANDES
 1. LEANDRO SANTIAGO DE ARAUJO
+    - [lattes](http://lattes.cnpq.br/6358983442870515)
+    - <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4906929H4" width="100" />
 1. LEONARDO CRUZ DA COSTA
 1. LEONARDO GRESTA PAULINO MURTA
 1. LOANA TITO NOGUEIRA
