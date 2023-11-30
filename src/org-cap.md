@@ -1,4 +1,4 @@
-# Comissão de Avaliação de Progressão
+# Comissão de Avaliação de Progressão CAP-TCC
 
 ### Membros
 
