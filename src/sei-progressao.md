@@ -12,6 +12,9 @@ Existem as seguintes classes/níveis:
 Observações importantes:
 - Existe PROGRESSÃO de A1 para A2, após 24 meses de posse (durante estágio probatório)
 - Existe Aceleração de PROMOÇÃO de A2 para C1, após finalizado o estágio probatório (com 36 meses após a posse) e comprovação do título de doutor
+- Esse processo se refere à progressão de adjunto (as de associado ficam com o Instituto de Computação)
+
+Veja os membros da [Comissão de Avaliação de Progressão CAP](./org-cap.md)
 
 
 ### Rascunho do fluxo

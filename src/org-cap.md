@@ -1,11 +1,14 @@
 # Comissão de Avaliação de Progressão
 
 ### Membros
-A
 
-B
+- DTS-TCC Nº 09 de 11 de Novembro de 2023
+    * Simone (presidente)
+    * Aline Paes
+    * Isabel Rosseti
+    * Cristina Boeres
 
-C
+Veja o [Processo de Progressão](./sei-progressao.md)
 
 
 
