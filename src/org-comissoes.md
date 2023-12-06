@@ -19,6 +19,8 @@
     * Bruno (presidente), Loana, Simone, Marco Antonio, Troy, Luciana Salgado, Vanessa, Leandro Fernandes, Célio, Marcelo Fornazin
 
 ### Setores
+
+- Setores:
     * SETOR: ALGORITMOS E COMPLEXIDADE : Profa. Loana
     * SETOR: ARQUITETURA E SISTEMAS OPERACIONAIS: Profa. Simone
     * SETOR: BANCO DE DADOS: Prof. Luiz André
@@ -30,3 +32,4 @@
     * SETOR: PROGRAMAÇÃO BÁSICA PARA COMPUTAÇÃO: Prof. Leandro Fernandes
     * SETOR: REDES DE COMPUTADORES: Prof. Célio
     * SETOR: GERÊNCIA DE SISTEMAS DE TECNOLOGIA DE INFORMAÇÃO: Prof. Marcelo Fornazin
+- Veja o [Processo de Quadro de Horários](./disc-qh.md)
