@@ -9,7 +9,7 @@ No TCC, o processo de organização do quadro de horários é feito com a partic
   - Verificar listagem de emails das coordenações
 2. Liberar o quadro de preferências (QHPref202XXori.xls) no Google Drive. A comissão de quadro de horários resolve quase tudo. Mas eu peço para colocar as preferências, no caso de ficarem turmas não resolvidas.
 3. Solicitar que a comissão de quadro de horários resolva a alocação em cada área. Esta comissão deve ter uma DTS. Verificar em [Comissões](./org-comissoes.md)
-4. Verificar listagem de disciplinas por setor (reenviar email do semestre anterior)
+4. Verificar listagem de disciplinas por setor (reenviar email do semestre anterior *"[Profs] Preferências para o Quadro de Horários 202X-X"*)
     - SETOR: ALGORITMOS E COMPLEXIDADE
         * ALGORITMOS EM GRAFOS
         * ANÁLISE E PROJETO DE ALGORITMOS
