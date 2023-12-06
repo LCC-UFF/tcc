@@ -5,7 +5,7 @@ Informações sobre o **Departamento de Ciência da Computação** da UFF.
 - [Documentos Gerais do TCC em docs/org](docs/org/README.md).
 - [Pessoal](src/org-pessoal.md).
 - [Representantes nos Colegiados dos Cursos de Graduação](src/org-representantes-colegiados.md).
-- [Comissão de Avaliação de Progressão](src/org-cap.md).
+- [Comissões](src/org-comissoes.md).
 - [Regras de Carga Horária e Afastamento](src/rorg-regras-ch.md).
 - [Professores Substitutos](src/org-substitutos.md).
 - [Determinação de Serviço DTS](src/org-dts.md).
@@ -14,10 +14,11 @@ Informações sobre o **Departamento de Ciência da Computação** da UFF.
 - Convocação de Reunião de Departamento.
 - ATAS das Reuniões de Departamento.
 
-## Disciplinas
+## Disciplinas e Quadro de Horários
 - Ementário das Disciplinas
 - Cursos de Graduação Atendidos
 - Disciplina de TCC
+- [Processo de Quadro de Horários](src/disc-qh.md)
 
 ## Processos no SEI
 - [Gestão dos Processos](src/sei-gestao-processos.md).
