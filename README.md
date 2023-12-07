@@ -29,8 +29,8 @@ Informações sobre o **Departamento de Ciência da Computação** da UFF.
 
 ## Outros
 - [Sorteio de Sala de Professores](src/out-sorteio-salas.md).
-- Lembrete sobre AULAS durante a Agenda Acadêmica.
 - [Acesso aos Sistemas da UFF](src/out-acesso-sistemas.md).
+- [Lembretes: 1) Sobre as AULAS durante a Agenda Acadêmica](src/out-lembrete-1.md).
 
 ---
 Editado usando https://dillinger.io/
