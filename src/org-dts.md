@@ -83,4 +83,16 @@ Para anos anteriores, veja: [DTS-2022](org-dts-2022.md) [DTS-2021](org-dts-2021.
     - Designa para "Comissão de Avaliação de Desempenho de Docentes do TCC" para fins de Progressão Horizontal e Vertical:
         * Simone (presidente), Aline Paes, Isabel Rosseti, Cristina Boeres
 
+1. Nº 10 de 12 de Dezembro de 2023
+    - Ementa: "Constitui Banca para Seleção de Professor Substituto"
+    - Designa para "Banca para Seleção de Professor Substituto 40h na Área de Conhecimento em Ciência da Computação"
+        * Titulares: Bruno Lopes Vieira (presidente), Isabel Cristina Mello Rosseti, Aline de Paula Nascimento
+        * Suplente: Aline Marins Paes Carvalho
+
+1. Nº 11 de 12 de Dezembro de 2023
+    - Ementa: "Constitui Banca para Seleção de Professor Substituto"
+    - Designa para "Banca para Seleção de Professor Substituto 20h na Área de Conhecimento em Ciência da Computação"
+        * Titulares: José Viterbo Filho (presidente), Vânia de Oliveira Neves, Leandro Augusto Frata Fernandes
+        * Suplente: Marco Antônio Monteiro Silva Ramos
+
 Para demais DTS-TCC, veja página [DTS-TCC](org-dts.md).
