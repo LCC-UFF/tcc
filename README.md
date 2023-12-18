@@ -26,6 +26,7 @@ Informações sobre o **Departamento de Ciência da Computação** da UFF.
 - [Progressão Docente](src/sei-progressao.md).
 - Afastamento no Pais.
 - Afastamento Exterior.
+- [Concurso de Professor Substituto](src/sei-substituto.md).
 
 ## Outros
 - [Sorteio de Sala de Professores](src/out-sorteio-salas.md).
