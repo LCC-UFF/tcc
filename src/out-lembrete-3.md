@@ -6,7 +6,7 @@ Enviar a seguinte mensagem para os professores:
 
 **Título do E-mail:** 
 ~~~
-[Lançamento de Notas] Prazo encerando em breve
+[Lançamento de Notas] Prazo encerrando em breve
 ~~~
 
 
