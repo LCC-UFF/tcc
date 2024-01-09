@@ -33,6 +33,7 @@ Informações sobre o **Departamento de Ciência da Computação** da UFF.
 - [Acesso aos Sistemas da UFF](src/out-acesso-sistemas.md).
 - [Lembrete: 1) Sobre as AULAS durante a Agenda Acadêmica](src/out-lembrete-1.md).
 - [Lembrete: 2) Sobre Aplicação da VS](src/out-lembrete-2.md).
+- [Lembrete: 3) Sobre Lançamento de Notas](src/out-lembrete-3.md).
 
 ---
 Editado usando https://dillinger.io/
