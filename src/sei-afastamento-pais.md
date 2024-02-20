@@ -6,7 +6,7 @@
 - A chefia do TCC edita o DEFERIMENTO+DESPACHO incluindo a justificativa do afastamento (ver __PREPARAÇÃO DO DEFERIMENTO__);
 - A chefia do TCC assina o DEFERIMENTO+DESPACHO e envia o processo à Direção da unidade a que pertence o Departamento para registro do afastamento no SCDP;
 - Após o retorno, o servidor anexará o relatório de atividades desenvolvidas (documento externo ao SEI) e os demais comprovantes; 
-- A chefia do TCC assina o relatório e conclui o processo.
+- A chefia do TCC assina o relatório e conclui o processo (ver __CONCLUSÃO DO PROCESSO__).
 
 ---
 
@@ -44,6 +44,12 @@ A professora vai participar de evento e apresentar um artigo relevante da área 
 
 A professora foi convidada para participar de evento devido competência na área de pesquisa dela.
 ~~~
+
+---
+
+### CONCLUSÃO DO PROCESSO:
+- Verificar a inclusão e assinatura do docente no seguinte documento: 
+RELATÓRIO DE ATIVIDADES DESENVOLVIDAS NO AFASTAMENTO NO PAÍS OU EXTERIOR PARA CAPACITAÇÃO OU QUALIFICAÇÃO
 
 ---
 
