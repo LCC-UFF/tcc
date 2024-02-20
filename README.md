@@ -2,8 +2,8 @@
 Informações sobre o **Departamento de Ciência da Computação** da UFF.
 
 ## Organizacional 
-- [Documentos Gerais do TCC em docs/org](docs/org/README.md).
 - [Pessoal](src/org-pessoal.md).
+- [Documentos Gerais do TCC em docs/org](docs/org/README.md).
 - [Representantes nos Colegiados dos Cursos de Graduação](src/org-representantes-colegiados.md).
 - [Comissões](src/org-comissoes.md).
 - [Regras de Carga Horária e Afastamento](src/rorg-regras-ch.md).
@@ -24,7 +24,7 @@ Informações sobre o **Departamento de Ciência da Computação** da UFF.
 - [Gestão dos Processos](src/sei-gestao-processos.md).
 - [Dispensa de Disciplinas](src/sei-dispensa-disciplinas.md).
 - [Progressão Docente](src/sei-progressao.md).
-- Afastamento no Pais.
+- [Afastamento no Pais, INF 15 dias](src/sei-afastamento-pais.md).
 - Afastamento Exterior.
 - [Concurso de Professor Substituto](src/sei-substituto.md).
 
