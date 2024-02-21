@@ -1,4 +1,4 @@
-# Processo de Progressão Docente (TCC-UFF)
+# Processo de Progressão Docente (TCC-UFF) - Fluxo de Adjunto
 
 De acordo com Lei 12.772 e MP/2013.
 
@@ -22,20 +22,19 @@ Veja os membros da [Comissão de Avaliação de Progressão CAP-TCC em Comissõe
 1. Interessado anexa no SEI "REQUERIMENTO DE PROGRESSÃO FUNCIONAL DE DOCENTE"
    - Observa o formato do interstício (exemplo: 23/01/2020 a 22/01/2022) 
    - Observa a Classe/Nível atual e pretendido
-   - Anexa os RADs (tipicamente dois anos)
-   - Anexa as atas de aprovação dos RADs
+   - Anexa os RADs, tipicamente dois anos (ou deixa o último como Parcial, se for antes do fechamento, formato: SEM ASSINATURA e SEM DATA)
+   - Anexa as atas de aprovação dos RADs (ou somente uma ata, caso o segundo seja Parcial)
    - Contacta a chefia via email para que faça o despacho e envio à comissão
 1. Chefia anexa "Despacho TCC" com o seguinte texto:
-   - > O CHEFE DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUMINENSE, no uso de suas atribuições legais e regulamentares, examinando os autos do Processo em epígrafe, pede que as devidas providência sejam tomadas pela Comissão Departamental de Progressão do departamento de Computação para a solicitação do pedido de progressão deste processo.
+   - > O CHEFE DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUMINENSE, no uso de suas atribuições legais e regulamentares, examinando os autos do Processo em epígrafe, pede que as devidas providência sejam tomadas pela Comissão Departamental de Progressão do departamento de Computação para a solicitação do pedido de progressão deste processo, além de dar ciência e confirmar que:
+     > - o RAD de 2022 do docente incluídos no processo foi aprovado em reunião de departamento, conforme apresentado em ata anexada;
+     > - o RAD de 2023 não se encontra assinado pele chefia de departamento pois ainda não foi aprovado em plenária de departamento, já que o período ainda não foi encerrado. Porém, esta chefia dá aqui ciência quanto as atividades declaradas nele;
+     > - o relatório complementar de atividades também foi anexado no processo.
 1. A comissão anexa o "Parecer TCC" com relatório, fundamentação e conclusão
 1. O interessado anexa a Ata de aprovação do parecer do TCC
 1. Interessado envia diretamente à CPPD/ ou Chefia dá ciência com "Despacho TCC" com o seguinte texto e envia à CPPD:
    - > TCC, em dd/mm/aaaa.
-     >  (1) Informo que estou ciente do(s) Relatório(s) de Atividade Docente (RAD) anexados pelo
-docente [digite aqui o nome do docente]:
-   Relatório de Atividade Docente do período: [digite aqui a data do relatório]; e
-   Relatório de Atividade Docente do período: [digite aqui a data do relatório].
-     >  (2) Ao CPPD para providência
+     >  O CHEFE DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUMINENSE, no uso de suas atribuições legais e regulamentares, examinando os autos do Processo em epígrafe, pede que as devidas providência sejam tomadas pela Comissão Permanente de Pessoal Docente (CPPD) para a solicitação do pedido de progressão deste processo.
 1. CPPD anexa portaria com efeitos financeiros
 
 ### Referências:
