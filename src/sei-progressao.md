@@ -24,7 +24,7 @@ Veja os membros da [Comissão de Avaliação de Progressão CAP-TCC em Comissõe
    - Observa a Classe/Nível atual e pretendido
    - Anexa os RADs, tipicamente dois anos (ou deixa o último como Parcial, se for antes do fechamento, formato: SEM ASSINATURA e SEM DATA)
    - Anexa as atas de aprovação dos RADs (ou somente uma ata, caso o segundo seja Parcial)
-   - Contacta a chefia via email para que faça o despacho e envio à comissão
+   - Atribui processo para a chefia (tipicamente também avisa via email/whatsapp) para que faça o despacho e envio à comissão
 1. Chefia anexa "Despacho TCC" com o seguinte texto:
    - > O CHEFE DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUMINENSE, no uso de suas atribuições legais e regulamentares, examinando os autos do Processo em epígrafe, pede que as devidas providência sejam tomadas pela Comissão Departamental de Progressão do departamento de Computação para a solicitação do pedido de progressão deste processo, além de dar ciência e confirmar que:
      > - o RAD de 2022 do docente incluídos no processo foi aprovado em reunião de departamento, conforme apresentado em ata anexada;
