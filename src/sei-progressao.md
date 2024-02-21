@@ -31,8 +31,8 @@ Veja os membros da [Comissão de Avaliação de Progressão CAP-TCC em Comissõe
      > - o RAD de 2023 não se encontra assinado pele chefia de departamento pois ainda não foi aprovado em plenária de departamento, já que o período ainda não foi encerrado. Porém, esta chefia dá aqui ciência quanto as atividades declaradas nele;
      > - o relatório complementar de atividades também foi anexado no processo.
 1. A comissão anexa o "Parecer TCC" com relatório, fundamentação e conclusão
-1. O interessado anexa a Ata de aprovação do parecer do TCC
-1. Interessado envia diretamente à CPPD/ ou Chefia dá ciência com "Despacho TCC" com o seguinte texto e envia à CPPD:
+1. A secretaria, o interessado ou a chefia anexa a Ata de aprovação do parecer do TCC
+1. Chefia dá ciência com "Despacho TCC" com o seguinte texto e envia à CPPD:
    - > TCC, em dd/mm/aaaa.
      >  O CHEFE DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUMINENSE, no uso de suas atribuições legais e regulamentares, examinando os autos do Processo em epígrafe, pede que as devidas providência sejam tomadas pela Comissão Permanente de Pessoal Docente (CPPD) para a solicitação do pedido de progressão deste processo.
 1. CPPD anexa portaria com efeitos financeiros
