@@ -23,6 +23,7 @@ Veja os membros da [Comissão de Avaliação de Progressão CAP-TCC em Comissõe
    - Observa o formato do interstício (exemplo: 23/01/2020 a 22/01/2022) 
    - Observa a Classe/Nível atual e pretendido
    - Anexa os RADs, tipicamente dois anos (ou deixa o último como Parcial, se for antes do fechamento, formato: SEM ASSINATURA e SEM DATA)
+      * OBS: somente usar RAD Parcial se ele for EMITIDO antes do Fechamento do sistema! Não fazer isso com RAD fechado (modelo COM assinatura e COM data, pois nesse caso Precisa anexar a Ata de aprovação do RAD)
    - Anexa as atas de aprovação dos RADs (ou somente uma ata, caso o segundo seja Parcial)
    - Atribui processo para a chefia (tipicamente também avisa via email/whatsapp) para que faça o despacho e envio à comissão
 1. Chefia anexa "Despacho TCC" com o seguinte texto:
