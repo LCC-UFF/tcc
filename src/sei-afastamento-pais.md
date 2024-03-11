@@ -2,9 +2,9 @@
 
 ## Fluxo de atividades no TCC:
 - O professor cria o processo, insere os formulários e atribui o __processo__ para a chefia do TCC (ver __INFORMAÇÕES IMPORTANTES DO PROCESSO__);
-- A chefia do TCC cria e inclui o DEFERIMENTO AFAST. NO PAÍS DOCENTE INF. 15. Nesse caso, não precisamos criar um novo despacho, pois esse documento já tem a função de ser também o despacho (ver __CRIAÇÃO DO DEFERIMENTO__);
-- A chefia do TCC edita o DEFERIMENTO+DESPACHO incluindo a justificativa do afastamento (ver __PREPARAÇÃO DO DEFERIMENTO__);
-- A chefia do TCC assina o DEFERIMENTO+DESPACHO e envia o processo à Direção da unidade a que pertence o Departamento para registro do afastamento no SCDP;
+- A chefia do TCC cria e inclui o DEFERIMENTO AFAST. NO PAÍS DOCENTE INF. 15 (ver __CRIAÇÃO DO DEFERIMENTO__);
+- A chefia do TCC edita e assina o DEFERIMENTO incluindo a justificativa do afastamento (ver __PREPARAÇÃO DO DEFERIMENTO__);
+- A chefia do TCC cria e assina o DESPACHO e envia o processo à Direção da unidade a que pertence o Departamento para registro do afastamento no SCDP (ver __PREPARAÇÃO DO DESPACHO__);
 - Após o retorno, o servidor anexará o relatório de atividades desenvolvidas (documento externo ao SEI) e os demais comprovantes; 
 - A chefia do TCC assina o relatório e conclui o processo (ver __CONCLUSÃO DO PROCESSO__).
 
@@ -43,6 +43,15 @@ A professora vai apresentar um artigo relevante da área de pesquisa dela.
 A professora vai participar de evento e apresentar um artigo relevante da área de pesquisa dela.
 
 A professora foi convidada para participar de evento devido competência na área de pesquisa dela.
+~~~
+
+---
+
+### PREPARAÇÃO DO DESPACHO:
+
+**Exemplos de Despacho para o TIC:**
+~~~
+O CHEFE DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUMINENSE, no uso de suas atribuições legais e regulamentares, examinando os autos do Processo em epígrafe, pede que as devidas providência sejam tomadas pelo INSTITUTO DE COMPUTAÇÃO (TIC) para a solicitação do pedido de afastamento.
 ~~~
 
 ---
