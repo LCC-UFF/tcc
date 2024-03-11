@@ -16,6 +16,7 @@ Observações importantes:
 
 Veja os membros da [Comissão de Avaliação de Progressão CAP-TCC em Comissões](./org-comissoes.md)
 
+---
 
 ### Rascunho do fluxo
 
@@ -38,6 +39,36 @@ Veja os membros da [Comissão de Avaliação de Progressão CAP-TCC em Comissõe
    - > TCC, em dd/mm/aaaa.
      >  O CHEFE DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUMINENSE, no uso de suas atribuições legais e regulamentares, examinando os autos do Processo em epígrafe, pede que as devidas providência sejam tomadas pela Comissão Permanente de Pessoal Docente (CPPD) para a solicitação do pedido de progressão deste processo.
 1. CPPD anexa portaria com efeitos financeiros
+
+---
+
+### Modelos de Despachos:
+
+**Despacho para Adjunto para a CADD:**
+~~~
+O CHEFE DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUMINENSE, no uso de suas atribuições legais e regulamentares, examinando os autos do Processo em epígrafe, pede que as devidas providência sejam tomadas pela Comissão Departamental de Progressão do departamento de Computação para a solicitação do pedido de progressão deste processo, além de dar ciência e confirmar que:
+- o RAD de 2022 do docente incluídos no processo foi aprovado em reunião de departamento, conforme apresentado em ata anexada;
+- o RAD de 2023 não se encontra assinado pela chefia de departamento pois ainda não foi aprovado em plenária de departamento, já que o período ainda não foi encerrado. Porém, esta chefia dá aqui ciência quanto as atividades declaradas nele;
+- o relatório complementar de atividades assinado pela chefia também foi anexado no processo.
+~~~
+
+**Despacho para Adjunto para a CPPD:**
+~~~
+TCC em xx/xx/xxxx,
+
+O CHEFE DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUMINENSE, no uso de suas atribuições legais e regulamentares, examinando os autos do Processo em epígrafe, pede que as devidas providência sejam tomadas pela Comissão Permanente de Pessoal Docente (CPPD) para a solicitação do pedido de progressão deste processo.
+~~~
+
+**Despacho para Associado:**
+~~~
+O CHEFE DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUMINENSE, no uso de suas atribuições legais e regulamentares, examinando os autos do Processo em epígrafe, pede que as devidas providência sejam tomadas pela DIREÇÃO DO INSTITUTO DE COMPUTAÇÃO para a solicitação do pedido de progressão deste processo, além de dar  ciência e confirmar que:
+- o RAD de 2022 do docente incluídos no processo foi aprovado em reunião de departamento, conforme apresentado em ata anexada;
+- o RAD de 2023 não se encontra assinado pela chefia de departamento pois ainda não foi aprovado em plenária de departamento, já que o período ainda não foi encerrado. Porém, esta chefia dá aqui ciência quanto as atividades declaradas nele;
+- o relatório complementar de atividades assinado pela chefia também foi anexado no processo.
+~~~
+
+---
+
 
 ### Referências:
 
