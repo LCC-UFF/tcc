@@ -25,7 +25,7 @@ Informações sobre o **Departamento de Ciência da Computação** da UFF.
 - [Dispensa de Disciplinas](src/sei-dispensa-disciplinas.md).
 - [Progressão Docente](src/sei-progressao.md).
 - [Afastamento no Pais, INF 15 dias](src/sei-afastamento-pais.md).
-- Afastamento Exterior.
+- [Afastamento no Exterior, INF 15 dias](src/sei-afastamento-exterior.md).
 - [Concurso de Professor Substituto](src/sei-substituto.md).
 
 ## Outros
