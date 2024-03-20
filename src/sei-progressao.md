@@ -69,6 +69,16 @@ O CHEFE DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUM
 
 ---
 
+### PENDÊNCIAS NO PROCESSO:
+- Verificar se as pendências foram atendidas pelo INTERESSADO e/ou CHEFIA, em seguida preparar um despacho para a CPPD.
+
+**Exemplo de Despacho para atendimento a Pendências no Processo**
+~~~
+O CHEFE DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUMINENSE, no uso de suas atribuições legais e regulamentares, examinando os autos do Processo em epígrafe, e atendendo as solicitações de retificação, pede que as devidas providência sejam tomadas pela Comissão Permanente de Pessoal Docente (CPPD) para a solicitação do pedido de progressão deste processo. 
+~~~
+
+---
+
 
 ### Referências:
 

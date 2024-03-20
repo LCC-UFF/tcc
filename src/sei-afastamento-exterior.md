@@ -51,6 +51,25 @@ A professora foi convidada para participar de evento devido competência na áre
 - Verificar a inclusão e assinatura do docente no seguinte documento: 
 RELATÓRIO DE ATIVIDADES DESENVOLVIDAS NO AFASTAMENTO NO PAÍS OU EXTERIOR PARA CAPACITAÇÃO OU QUALIFICAÇÃO
 
+**Exemplo de Despacho para Conclusão do Processo**
+~~~
+O CHEFE DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUMINENSE, no uso de suas atribuições legais e regulamentares, examinando os autos do Processo em epígrafe, e tomando providência para a conclusão deste processo de afastamento, informa que:
+- O relatório do docente já foi assinado;
+- O docente inseriu os documentos comprobatórios; 
+- O docente retornou às suas atividades neste departamento. 
+~~~
+
+---
+
+### PENDÊNCIAS NO PROCESSO:
+- Verificar se as pendências foram atendidas pelo INTERESSADO e/ou CHEFIA, em seguida preparar um despacho para o DACQ/CPD.
+
+**Exemplo de Despacho para atendimento a Pendências no Processo**
+~~~
+O CHEFE DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUMINENSE, no uso de suas atribuições legais e regulamentares, examinando os autos do Processo em epígrafe, e atendendo as solicitações de retificação, pede que as devidas providência sejam tomadas pela DACQ/CPD para a solicitação do pedido de afastamento deste processo. 
+~~~
+
 ---
 
 ### Referências:
+[Base de conhecimento do SEI](https://sei.uff.br/sei/controlador.php?acao=base_conhecimento_visualizar&id_base_conhecimento=652&infra_sistema=100000100&infra_unidade_atual=110000764&infra_hash=5fe48e60cfdd9b6aece3907823ce3499e8b0260f34c784c4221ff87aac355a5e)
