@@ -28,6 +28,8 @@ Veja os membros da [Comissão de Avaliação de Progressão CAP-TCC em Comissõe
       * OBS 2: em caso de interstício de MEIO DE ANO (tipo Junho, Julho...) é melhor já anexar o RAD Parcial do ano vigente, além dos dois completos dos dois anos anteriores
    - Anexa as atas de aprovação dos RADs (ou somente uma ou duas atas, caso o segundo/terceiro seja Parcial)
    - Atribui processo para a chefia (tipicamente também avisa via email/whatsapp) para que faça o despacho e envio à comissão
+1. Chefia assina o Relatório de Atividades (ou dá Ciência via "Joinha" do SEI). Observe que os RADs já devem estar assinados pela Chefia
+   -  OBS: houve casos em que o RAD sem assinatura da Direção foi aceito (verificar se isso é necessário de fato)
 1. Chefia anexa "Despacho TCC" com o seguinte texto:
    - > O CHEFE DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUMINENSE, no uso de suas atribuições legais e regulamentares, examinando os autos do Processo em epígrafe, pede que as devidas providência sejam tomadas pela Comissão Departamental de Progressão do departamento de Computação para a solicitação do pedido de progressão deste processo, além de dar ciência e confirmar que:
      > - o RAD de 2022 do docente incluídos no processo foi aprovado em reunião de departamento, conforme apresentado em ata anexada;
