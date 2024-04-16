@@ -18,7 +18,7 @@ Veja os membros da [Comissão de Avaliação de Progressão CAP-TCC em Comissõe
 
 ---
 
-### Rascunho do fluxo
+### Fluxo de ADJUNTO
 
 1. Interessado anexa no SEI "REQUERIMENTO DE PROGRESSÃO FUNCIONAL DE DOCENTE"
    - Observa o formato do interstício (exemplo: 23/01/2020 a 22/01/2022) 
@@ -40,6 +40,25 @@ Veja os membros da [Comissão de Avaliação de Progressão CAP-TCC em Comissõe
 1. Chefia dá ciência com "Despacho TCC" com o seguinte texto e envia à CPPD:
    - > TCC, em dd/mm/aaaa.
      >  O CHEFE DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUMINENSE, no uso de suas atribuições legais e regulamentares, examinando os autos do Processo em epígrafe, pede que as devidas providência sejam tomadas pela Comissão Permanente de Pessoal Docente (CPPD) para a solicitação do pedido de progressão deste processo.
+1. CPPD anexa portaria com efeitos financeiros
+
+### Fluxo de ASSOCIADO
+
+1. Interessado anexa no SEI "REQUERIMENTO DE PROGRESSÃO FUNCIONAL DE DOCENTE"
+   - Observa o formato do interstício (exemplo: 23/01/2020 a 22/01/2022) 
+   - Observa a Classe/Nível atual e pretendido
+   - Anexa PORTARIA da última progressão
+   - Anexa os RADs e Atas de Aprovação, tipicamente dois anos (Veja no fluxo de Adjunto possíveis exceções pra 3 RADs)
+   - Atribui processo para a chefia (tipicamente também avisa via email/whatsapp) para que faça o despacho e envio à comissão
+1. Chefia assina o Relatório de Atividades (ou dá Ciência via "Joinha" do SEI). Observe que os RADs já devem estar assinados pela Chefia
+   -  OBS: houve casos em que o RAD sem assinatura da Direção foi aceito (verificar se isso é necessário de fato)
+1. Chefia anexa "Despacho TCC" com o seguinte texto:
+   - > O CHEFE DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUMINENSE, no uso de suas atribuições legais e regulamentares, examinando os autos do Processo em epígrafe, pede que as devidas providência sejam tomadas pela DIREÇÃO DO INSTITUTO DE COMPUTAÇÃO para a solicitação do pedido de progressão deste processo, além de dar ciência e confirmar que:
+   - > o RAD de 2022 do docente incluídos no processo foi aprovado em reunião de departamento, conforme apresentado em ata anexada;
+   - > o RAD de 2023 do docente incluídos no processo foi aprovado em reunião de departamento, conforme apresentado em ata anexada;
+   - > o relatório complementar de atividades com Ciência no SEI pela chefia também foi anexado no processo.
+1. Envia processo para o TIC - Instituto de Computação
+1. A FAZER...
 1. CPPD anexa portaria com efeitos financeiros
 
 ---
