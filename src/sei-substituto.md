@@ -97,7 +97,7 @@ Inicie um novo concurso no Sistema CPD (precisa ser CHEFE com poderes para isso)
     - ``` Dia 1 (XX/XX/2024) quarta-feira 09:00h - Instalação da Banca; 09:30h - Sorteio do ponto da prova escrita; 10:00h - Realização da prova escrita (duração de 3 horas); 19:00h - Divulgação do resultado da prova escrita (eliminatória).
 Dia 2 (XX/XX/2024) 09:00h - Entrega do Curriculum e comprovantes pelos aprovados na prova escrita; 09:15h - Sorteio do ponto da prova didática; 14:00h - Análise do Curriculum pela Banca.
 Dia 3 (XX/XX/2024) 09:00h - Sorteio da ordem de apresentação da prova didática, 09:30h - Realização da prova didática; 19:00h - Divulgação do resultado final.
-      ```
+```
 4. Veja no email um exemplo de barema, e atualize caso necessário
 
 ### Sexta Etapa: entrar com cronograma no sistema CPD
