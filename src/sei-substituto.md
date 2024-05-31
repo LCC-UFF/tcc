@@ -113,6 +113,8 @@ Dia 3 (XX/XX/2024) 09:00h - Sorteio da ordem de apresentação da prova didátic
 4. Ir em Seleção Simplificada -> Bancas (procurar o concurso no final, ainda sem ano por estar como NOVO)
 5. Entrar na banca e adicionar CPF do secretário e dos membros (3 titulares e 1 suplente, de acordo com DTS)
     - Caso dê erro, talvez o secretário não tenha ainda cadastro no sistema da CPD (com "papel" de secretário)
+6. Enviar email à CPD/concursos para solicitar o andamento à construção do Edital em PDF (geralmente é super rápido, e colocam diretamente no SEI!)
+   
 
 Veja [Fluxo no SEI](https://www.uff.br/sites/default/files/base_de_conhecimento_de_selecao_simplificada_para_contratacao_de_professor_substituto_v.2.pdf)
 
