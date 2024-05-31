@@ -111,7 +111,7 @@ Dia 3 (XX/XX/2024) 09:00h - Sorteio da ordem de apresentação da prova didátic
     - Editar o Período da Seleção (tipicamente 3 dias, de acordo com o cronograma)
     - Avançar para próxima tela e preencher o Cronograma
 4. Ir em Seleção Simplificada -> Bancas (procurar o concurso no final, ainda sem ano por estar como NOVO)
-5. Entrar na banca e adicionar CPF do secretário e dos membros (3 titulares e 1 suplente, de acordo com DTS)
+5. Entrar na banca e adicionar CPF (ver no app SouGov) do secretário e dos membros (3 titulares e 1 suplente, de acordo com DTS)
     - Caso dê erro, talvez o secretário não tenha ainda cadastro no sistema da CPD (com "papel" de secretário)
 6. Enviar email à CPD/concursos para solicitar o andamento à construção do Edital em PDF (geralmente é super rápido, e colocam diretamente no SEI!)
    
