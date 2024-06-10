@@ -27,6 +27,7 @@ Informações sobre o **Departamento de Ciência da Computação** da UFF.
 - [Afastamento no Pais, INF 15 dias](src/sei-afastamento-pais.md).
 - [Afastamento no Exterior, INF 15 dias](src/sei-afastamento-exterior.md).
 - [Concurso de Professor Substituto](src/sei-substituto.md).
+- [Regime Excepcional de Aprendizagem](src/sei-regime-aprendizagem.md).
 
 ## Outros
 - [Sorteio de Sala de Professores](src/out-sorteio-salas.md).
