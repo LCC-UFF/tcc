@@ -17,13 +17,13 @@ Engenharia de Telecom  |TGT   |Débora Cristina Muchaluat Saade    |Célio Vinic
 Engenharia de Petróleo |TGO   |Taiane Coelho Ramos                |Leandro Augusto Frata Fernandes    |DTS nº 05/2024
 Engenharia Elétrica    |TGE   |Dante Corbucci Filho               |Luís Felipe Ignácio Cunha          |DTS nº 09/2022
 Engenharia Mecânica    |TGM   |Yuri Abitbol Menezes Frota         |Leandro Augusto Frata Fernandes    |DTS nº 16/2022
-Engenharia Química     |TGQ   |Lauro Eduardo Kozovits             |Ricardo Leiderman                  |DTS nº
+Engenharia Química     |TGQ   |Lauro Eduardo Kozovits             |Ricardo Leiderman                  |DTS nº 17/2019*
 Estatística            |GGV   |Luis Antonio Brasil Kowada         |Marco Antônio Monteiro Silva Ramos |DTS nº
 Física Bacharelado     |GGF   |Joao Felipe Nicolaci Pimentel      |Luiz André Portes Paes Leme        |DTS nº 06/2024
 Física Licenciatura    |LGF   |Luiz André Portes Paes Leme        |Rodrigo Salvador Monteiro          |DTS nº 09/2016
-Geofísica              |GGU   |Ricardo Leiderman                  |Lauro Eduardo Kozovits             |DTS nº 
-Matemática Bacharelado |GGT   |Raphael Pereira de Oliveira Guerra |Raquel de Souza Francisco Bravo    |DTS nº
-Matemática Licenciatura|GTL   |Uéverton dos Santos Souza          |                                   |DTS nº
+Geofísica              |GGU   |Ricardo Leiderman                  |Lauro Eduardo Kozovits             |DTS nº 15/2017*
+Matemática Bacharelado |GGT   |Raphael Pereira de Oliveira Guerra |Raquel de Souza Francisco Bravo    |DTS nº 08/2018*
+Matemática Licenciatura|GTL   |Flávia Cristina Bernardini         |Helena Cristina da Gama Leitao     |DTS nº 11/2018*
 Sistemas de Informação |CGI   |Raphael Pereira de Oliveira Guerra |Leonardo Cruz da Costa             |DTS nº 02/2024
 Sistemas de Informação |CGI   |Daniela Gorski Trevisan            |Simone de Lima Martins             |DTS nº 02/2024
 Sistemas de Informação |CGI   |Vânia de Oliveira Neves            |Mariza Ferro                       |DTS nº 02/2024
