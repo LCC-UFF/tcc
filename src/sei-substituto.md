@@ -139,7 +139,7 @@ Dia 3 (XX/XX/2024) 09:00h - Sorteio da ordem de apresentação da prova didátic
      - A CPD deve resolver rapidamente a situação, alterando diretamente no site os membros da banca
 4. Com a banca confirmada, é necessário verificar confirmar a sala e definir o modelo da prova: discursiva ou questões
 
-### Nova Etapa: Concurso
+### Nona Etapa: Concurso
 
 1. Para o concurso, é necessário imprimir no site da CPD:
     - as folhas de folha que tem a capa personalizada para cada candidato (normalmente só vem a capa e mais um rascunho)
