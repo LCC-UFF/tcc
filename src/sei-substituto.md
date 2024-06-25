@@ -115,7 +115,53 @@ Dia 3 (XX/XX/2024) 09:00h - Sorteio da ordem de apresentação da prova didátic
     - Caso dê erro, talvez o secretário não tenha ainda cadastro no sistema da CPD (com "papel" de secretário)
 6. Ir em "Ações na Banca" e "Definir Presidente" 
 7. Enviar email à CPD/concursos para solicitar o andamento à construção do Edital em PDF (geralmente é super rápido, e colocam diretamente no SEI!)
+8. IMPORTANTE: Solicitar ao Instituto a alocação de sala para os dias de banca, preferencialmente, o dia todo (manhã e tarde)
    
+### Sétima Etapa: acompanhar e homologar inscrições
+
+1. Entrar no sistema CPD e acompanhar inscrições (secretário)
+2. Homologar inscrições que tenham GRU paga (em caso de Isenção, confirmar por email com a CPD/Concurso Substituto DGLD)
+3. Títulos já não são exigência para inscrição, e apenas para posse
+    - Enviar email para cada candidato inscrito alertando da perda de pontos na prova de currículo, caso não apresentem comprovações (inclusive do grau de graduação, mestre ou doutor)
+    - Alertar os inscritos sobre o Ofício-Circular DGLD/CPD n° 02/2021 (veja modelo em emails anteriores com assunto "Status da Inscrição (Edital XX/2024)"
+    - Enviar o Barema e Edital por email
+4. Em caso de indeferimento de inscrição, enviar email informando as razões
+5. Efetuar deferimentos e indeferimentos o quanto antes! Preferencialmente, dentro do período de inscrições, para que seja possível corrigir as situações
+
+### Oitava Etapa: Confirmação ou Alteração da Banca
+
+1. Com base nos inscritos, verificar eventuais conflitos com a banca
+2. Em caso de conflito com algum membro titular, assume o suplente
+3. Em caso de múltiplos conflitos, é necessário alterar a banca
+     - Chame reunião extraordinária ou tome decisão ad referendum (normalmente mais rápido, pelo tempo curto da banca) 
+     - Faça nova DTS de alteração da banca e envie ao email da CPD com Ofício de encaminhamento
+     - Inclua todos os dados no SEI, faça um despacho (equivalente ao Ofício) e envie à CPD
+     - A CPD deve resolver rapidamente a situação, alterando diretamente no site os membros da banca
+4. Com a banca confirmada, é necessário verificar confirmar a sala e definir o modelo da prova: discursiva ou questões
+
+### Nova Etapa: Concurso
+
+1. Para o concurso, é necessário imprimir no site da CPD:
+    - as folhas de folha que tem a capa personalizada para cada candidato (normalmente só vem a capa e mais um rascunho)
+    - folhas extras para a prova (igual a de rascunho); definir quantitativo com a banca (exemplo, 1 rascunho + 4 de prova, além da capa)
+    - imprimir lista de presença personalizada no site da CPD para prova escrita (didática só virá depois da confirmação dos aprovados)
+2. Preparar os pontos da prova em cima da ementa
+    - Devem ser criados 10 (DEZ) pontos em cima dos pontos da ementa (normalmente 5)
+3. A banca se apresenta no dia/horário, faz o sorteio, e depois começa a consulta ao material escrito (mínimo de 30min) enquanto a banca prepara a prova
+    - Caso a prova seja Discursiva, atentar para os 5 (CINCO) critérios da INSTRUÇÃO NORMATIVA PROGEPE/UFF No 34, DE 16 DE MAIO DE 2024
+    - Caso seja de questões, o ideal é que sejam 3 questões, uma por examinador
+4. No horário combinado, as questões são apresentadas aos candidatos (levar impresso) e eles executam dentro do tempo estipulado
+5. O secretário deve identificar as provas com códigos de 8 elementos (inicialmente letra, depois número, alternando) e eliminar o cabeçalho da capa, antes de entregar à banca para correções
+6. As correções são feitas e a nota é lançada no sistema, bem como afixada na secretaria (candidatos poderão não conseguir ver as notas no sistema, então sempre anexe fisicamente para garantir)
+    - Somente a prova escrita é eliminatória! As demais são classificatórias (embora a falta da prova poderá excluir o candidato)
+7. No dia seguinte, é feito o sorteio da prova didática, e são recebidas as comprovações de currículo
+8. O sistema permite imprimir a lista de presença da prova didática
+9. A nota da prova didática é lançada junto com a de currículo
+10. Afixar também na janela da secretaria o resultado dessa etapa, bem como a nota final gerada pelo sistema
+11. O sistema gera uma Ata de Concurso, bem como Mapa de Notas
+12. Anexar documentos relevantes como Ata de Concurso, Listas de Presença escaneadas, Mapa de Nota, e colocar tudo no SEI
+13. Está finalizado o concurso!
+
 
 Veja [Fluxo no SEI](https://www.uff.br/sites/default/files/base_de_conhecimento_de_selecao_simplificada_para_contratacao_de_professor_substituto_v.2.pdf)
 
