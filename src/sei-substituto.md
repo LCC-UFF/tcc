@@ -88,6 +88,7 @@ Inicie um novo concurso no Sistema CPD (precisa ser CHEFE com poderes para isso)
 ### Quinta Etapa: finalizar cronograma e barema
 
 1. Contactar banca e fechar barema e cronograma
+    - Já pedir para se cadastrarem no sistema CPD e se declararem como examinadores: Minha Conta -> Dados Cadastrais, e ir preenchendo tudo. Marcar "SIM" em "VAI SER EXAMINADOR OU SECRETÁRIO DE ALGUMA BANCA?"
 2. Para o cronograma, observar regras como:
     -  mínimo 10 dias para inscrições (não podendo encerrar sextas ou vésperas de feriado)
         * Dica: colocar DUAS semanas cheias, para garantir
