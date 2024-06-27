@@ -1,4 +1,4 @@
-# Lembrete 3
+# Lembrete 4
 
 ### Sobre Avaliação Continuada.
 
@@ -12,7 +12,7 @@ Sobre Avaliação Continuada
 
 **Conteúdo do E-mail:**
 ~~~
-OPrezado(a)s,
+Prezado(a)s,
 
 Motivados pelo Art. 5º da Resolução CEPEx 3.525/2024 , pela instrução do Diretor da Divisão de Apoio Curricular - DAC, Sr. Gilmar Lima, que esclarece que:
 
