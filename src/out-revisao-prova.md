@@ -26,6 +26,18 @@ Uma banca será formada para fazer a correção da sua prova. Em breve retornare
 
 At.te,
 
+### COMUNICAÇÂO AO PROFESSOR
+
+Assunto: 
+Pedido de recorreção de prova
+
+Corpo:
+Olá, PROFESSOR!
+
+Recebemos um pedido de recorreção de prova da sua disciplina. Uma banca será formada para fazer a recorreção da prova. Solicitamos que envia a avaliação do aluno.
+
+At.te,
+
 ### CRIAÇÃO DA DTS
 
 DETERMINAÇÃO DE SERVIÇO TCC Nº. 0x,  xx DE FEVEREIRO DE 202x
