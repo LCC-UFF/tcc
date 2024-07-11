@@ -30,6 +30,7 @@ Informações sobre o **Departamento de Ciência da Computação** da UFF.
 - [Regime Excepcional de Aprendizagem](src/sei-regime-aprendizagem.md).
 
 ## Outros
+- [Revisão de Prova](src/out-revisao-prova.md)
 - [Sorteio de Sala de Professores](src/out-sorteio-salas.md).
 - [Acesso aos Sistemas da UFF](src/out-acesso-sistemas.md).
 - [Lembrete: 1) Sobre as AULAS durante a Agenda Acadêmica](src/out-lembrete-1.md).
