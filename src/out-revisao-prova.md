@@ -5,33 +5,43 @@ O estudante tem direito à vista de trabalhos ou provas e pode solicitar revisã
 O Chefe do Departamento de Ensino/Coordenador de Curso deverá constituir, em 5 (cinco) dias úteis, banca composta por 3 (três) docentes, que terá outros 3 (três) dias úteis para apresentar o resultado do julgamento da solicitação de revisão de nota.
 
 ### CRIAÇÃO DA BANCA
-
-Enviar email:
-
-Assunto: 
+Assunto do EMAIL: 
 Pedido de recorreção de prova: DISCIPLINA
 
-Corpo:
+Corpo do EMAIL:
 Prof_1, Prof_2 e Prof_3,
 
 Recebemos um pedido de realização de uma recorreção de prova para a disciplina de XXXXXX. Estou formando a banca e queria saber se posso contar com vocês. 
 
 Obrigado,
 
-### COMUNICAÇÂO AO ALUNO
+### PARA FORMALIZAÇÃO DO PROCESSO
+Corpo do EMAIL:
+Olá ALUNO
 
-Olá, ALUNO!
+Recebemos a sua solicitação.
+
+Para dar andamento no processo, precisamos de:
+- seu nome completo, 
+- número de matrícula, 
+- nome da disciplina e turma, 
+- qual a avaliação e data que foi a vista da avaliação.
+
+At.te,
+
+### COMUNICAÇÂO AO ALUNO
+Corpo do EMAIL:
+Olá ALUNO
 
 Uma banca será formada para fazer a correção da sua prova. Em breve retornaremos com o posicionamento dela.
 
 At.te,
 
 ### COMUNICAÇÂO AO PROFESSOR
-
-Assunto: 
+Assunto do EMAIL: 
 Pedido de recorreção de prova
 
-Corpo:
+Corpo do EMAIL:
 Olá, PROFESSOR!
 
 Recebemos um pedido de recorreção de prova da sua disciplina. Uma banca será formada para fazer a recorreção da prova. Solicitamos que envia a avaliação do aluno.

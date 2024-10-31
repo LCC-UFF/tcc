@@ -37,6 +37,7 @@ Informações sobre o **Departamento de Ciência da Computação** da UFF.
 - [Lembrete: 2) Sobre Aplicação da VS](src/out-lembrete-2.md).
 - [Lembrete: 3) Sobre Lançamento de Notas](src/out-lembrete-3.md).
 - [Lembrete: 4) Sobre Avaliação Continuada](src/out-lembrete-4.md).
+- [Lembrete: 5) Sobre Avaliação Estágio Probatório](src/out-lembrete-5.md).
 
 ---
 Editado usando https://dillinger.io/
