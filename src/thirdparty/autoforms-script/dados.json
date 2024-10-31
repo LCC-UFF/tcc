@@ -41,5 +41,19 @@
       "CASO_3": "Com ônus limitado - manutenção do salário e com despesas pagas com recursos de: próprio requerente (não precisa editar NomeFinanciador).",
       "CASO_4": "Com ônus limitado - manutenção do salário e com despesas pagas com recursos de: Agência de Fomento (precisa editar NomeFinanciador).",
       "CASO_5": "Sem ônus - sem salário e sem qualquer despesa paga por órgão da Administração Federal."
-   }
+   },
+   "Form1Tab2": {
+                  "TipoAfastamento": "TIPO_7",
+                  "Outro":"Somente preencha se escolher o TIPO_8",
+                  "INFO": "Escolha apenas um dos TIPOS. Editar apenas o campo TipoAfastamento.",
+                  "TIPO_1": "Mestrado",
+                  "TIPO_2": "Doutorado",
+                  "TIPO_3": "Pós-Doutorado",
+                  "TIPO_4": "Aperfeiçoamento/Especialização",
+                  "TIPO_5": "Intercâmbio cultural, científico ou tecnológico",
+                  "TIPO_6": "Treinamento em serviço em órgão ou entidade da administração pública direta ou indireta da esfera federal, estadual ou municipal",
+                  "TIPO_7": "Congressos e congêneres",
+                  "TIPO_8": "Outro",
+                  "TIPO_9": "Banca Examinadora"
+               }
 }
