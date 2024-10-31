@@ -22,7 +22,7 @@ Confira todas as informações sobre estágio probatório do docente, como homol
 
 Primeira etapa: Apresentação do plano de trabalho. No prazo de até 60 (sessenta) dias após o início do estágio probatório, o docente apresentará o seu PLANO DE TRABALHO ao Departamento (TCC). Esse Plano de Trabalho deverá conter as atividades administrativas, de ensino, de pesquisa e de extensão referentes aos futuros 30 (trinta) meses de seu estágio probatório. Tal apresentação deverá ser formalizada, junto à CADD (com cópia para a chefia) do TCC, por meio da entrega digitalizada do plano de trabalho. O plano de trabalho será um balizador para a atuação do docente, onde o mesmo expõe as suas intenções e as diretrizes que seguirá no decorrer do período de estágio probatório. No plano de trabalho o docente deve indicar sua atuação em ensino, pesquisa e extensão, suas linhas de atuação e possíveis projetos e produtos a serem desenvolvidos. O plano de trabalho deve conter, no máximo, 5 laudas
 
-Aproveitamos para reforçar a importância de estar atento a todas as etapa do processo de Avaliação do Estágio Probatório e ficamos a disposição.
+Aproveitamos para reforçar a importância de estar atento a todas as etapas do processo de Avaliação do Estágio Probatório e ficamos à disposição.
 
 Att
 Chefia do TCC
