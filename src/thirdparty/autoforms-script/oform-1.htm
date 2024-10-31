@@ -1,0 +1,525 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="pt-br"><head>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<style type="text/css">
+p.Citacao {font-size:10pt;font-family:Calibri;word-wrap:normal;margin:4pt 0 4pt 160px;text-align:justify;} p.Item_Alinea_Letra {font-size:12pt;font-family:Calibri;text-indent:0mm;text-align:justify;word-wrap:normal;margin:6pt 6pt 6pt 120px;counter-increment:letra_minuscula;} p.Item_Alinea_Letra:before {content:counter(letra_minuscula, lower-latin) ") ";display:inline-block;width:5mm;font-weight:normal;} p.Item_Inciso_Romano {font-size:12pt;font-family:Calibri;text-align:justify;word-wrap:normal;text-indent:0mm;margin:6pt 6pt 6pt 120px;counter-increment:romano_maiusculo;counter-reset:letra_minuscula;} p.Item_Inciso_Romano:before {content:counter(romano_maiusculo, upper-roman) " - ";display:inline-block;width:15mm;font-weight:normal;} p.Item_Nivel1 {text-transform:uppercase;font-weight:bold;background-color:#e6e6e6;font-size:12pt;font-family:Calibri;text-align:justify;word-wrap:normal;text-indent:0;margin:6pt;counter-increment:item-n1;counter-reset:item-n2 item-n3 item-n4 romano_maiusculo letra_minuscula;} p.Item_Nivel1:before {content:counter(item-n1) ".";display:inline-block;width:25mm;font-weight:normal;} p.Item_Nivel2 {font-size:12pt;font-family:Calibri;text-indent:0mm;text-align:justify;word-wrap:normal;margin:6pt;counter-increment:item-n2;counter-reset:item-n3 item-n4 romano_maiusculo letra_minuscula;} p.Item_Nivel2:before {content:counter(item-n1) "." counter(item-n2) ".";display:inline-block;width:25mm;font-weight:normal;} p.Item_Nivel3 {font-size:12pt;font-family:Calibri;text-indent:0mm;text-align:justify;word-wrap:normal;margin:6pt;counter-increment:item-n3;counter-reset:item-n4 romano_maiusculo letra_minuscula;} p.Item_Nivel3:before {content:counter(item-n1) "." counter(item-n2) "." counter(item-n3) ".";display:inline-block;width:25mm;font-weight:normal;} p.Item_Nivel4 {font-size:12pt;font-family:Calibri;text-indent:0mm;text-align:justify;word-wrap:normal;margin:6pt;counter-increment:item-n4;counter-reset:romano_maiusculo letra_minuscula;} p.Item_Nivel4:before {content:counter(item-n1) "." counter(item-n2) "." counter(item-n3) "."  counter(item-n4) ".";display:inline-block;width:25mm;font-weight:normal;} p.Paragrafo_Numerado_Nivel1 {font-size:12pt;font-family:Calibri;text-align:justify;word-wrap:normal;text-indent:0mm;margin:6pt;counter-increment:paragrafo-n1;counter-reset:paragrafo-n2 paragrafo-n3 paragrafo-n4 romano_maiusculo letra_minuscula;} p.Paragrafo_Numerado_Nivel1:before {content:counter(paragrafo-n1) ".";display:inline-block;width:25mm;font-weight:normal;} p.Paragrafo_Numerado_Nivel2 {font-size:12pt;font-family:Calibri;text-indent:0mm;text-align:justify;word-wrap:normal;margin:6pt;counter-increment:paragrafo-n2;counter-reset:paragrafo-n3 paragrafo-n4 romano_maiusculo letra_minuscula;} p.Paragrafo_Numerado_Nivel2:before {content:counter(paragrafo-n1) "." counter(paragrafo-n2) ".";display:inline-block;width:25mm;font-weight:normal;} p.Paragrafo_Numerado_Nivel3 {font-size:12pt;font-family:Calibri;text-indent:0mm;text-align:justify;word-wrap:normal;margin:6pt;counter-increment:paragrafo-n3;counter-reset:paragrafo-n4 romano_maiusculo letra_minuscula;} p.Paragrafo_Numerado_Nivel3:before {content:counter(paragrafo-n1) "." counter(paragrafo-n2) "." counter(paragrafo-n3) ".";display:inline-block;width:25mm;font-weight:normal;} p.Paragrafo_Numerado_Nivel4 {font-size:12pt;font-family:Calibri;text-indent:0mm;text-align:justify;word-wrap:normal;margin:6pt;counter-increment:paragrafo-n4;counter-reset:romano_maiusculo letra_minuscula;} p.Paragrafo_Numerado_Nivel4:before {content:counter(paragrafo-n1) "." counter(paragrafo-n2) "." counter(paragrafo-n3) "." counter(paragrafo-n4) ".";display:inline-block;width:25mm;font-weight:normal;} p.Tabela_Texto_8 {font-size:8pt;font-family:Calibri;text-align:left;word-wrap:normal;margin:0 3pt 0 3pt;} p.Tabela_Texto_Alinhado_Direita {font-size:11pt;font-family:Calibri;text-align:right;word-wrap:normal;margin:0 3pt 0 3pt;} p.Tabela_Texto_Alinhado_Esquerda {font-size:11pt;font-family:Calibri;text-align:left;word-wrap:normal;margin:0 3pt 0 3pt;} p.Tabela_Texto_Centralizado {font-size:11pt;font-family:Calibri;text-align:center;word-wrap:normal;margin:0 3pt 0;} p.Tabela_Texto_Justificado {font-size:11pt;font-family:Calibri;text-align:justify;word-wrap:normal;margin:0 3pt 0 3pt;} p.tamanho_fonte_10 {font-size:10pt;} p.Texto_Alinhado_Direita {font-size:12pt;font-family:Calibri;text-align:right;word-wrap:normal;margin:6pt;} p.Texto_Alinhado_Direita_Recuo_9cm {font-size:12pt;font-family:Calibri;text-align:right;word-wrap:normal;margin-left:9cm;} p.Texto_Alinhado_Esquerda {font-size:12pt;font-family:Calibri;text-align:left;word-wrap:normal;margin:6pt;} p.Texto_Alinhado_Esquerda_Espacamento_Simples {font-size:12pt;font-family:Calibri;text-align:left;word-wrap:normal;margin:0;} p.Texto_Alinhado_Esquerda_Espacamento_Simples_Maiusc {font-size:12pt;font-family:Calibri;text-align:left;text-transform:uppercase;word-wrap:normal;margin:0;} p.Texto_Centralizado {font-size:12pt;font-family:Calibri;text-align:center;word-wrap:normal;margin:6pt;} p.Texto_Centralizado_Cabecalho {font-size:12pt;font-family:Calibri;text-align:center;word-wrap:normal;margin:6pt;line-height:100%;} p.Texto_Centralizado_Maiusculas {font-size:13pt;font-family:Calibri;text-align:center;text-transform:uppercase;word-wrap:normal;} p.Texto_Centralizado_Maiusculas_Negrito {font-weight:bold;font-size:13pt;font-family:Calibri;text-align:center;text-transform:uppercase;word-wrap:normal;} p.Texto_Espaco_Duplo_Recuo_Primeira_Linha {letter-spacing:0.2em;font-weight:bold;font-size:12pt;font-family:Calibri;text-indent:25mm;text-align:justify;word-wrap:normal;margin:6pt;} p.Texto_Fundo_Cinza_Maiusculas_Negrito {text-transform:uppercase;font-weight:bold;background-color:#e6e6e6;font-size:12pt;font-family:Calibri;text-align:justify;word-wrap:normal;text-indent:0;margin:6pt;} p.Texto_Fundo_Cinza_Negrito {font-weight:bold;background-color:#e6e6e6;font-size:12pt;font-family:Calibri;text-align:justify;word-wrap:normal;text-indent:0;margin:6pt;} p.Texto_Justificado {font-size:12pt;font-family:Calibri;text-align:justify;word-wrap:normal;text-indent:0;margin:6pt;} p.Texto_Justificado_Maiusculas {font-size:12pt;font-family:Calibri;text-align:justify;word-wrap:normal;text-indent:0;margin:6pt;text-transform:uppercase;} p.Texto_Justificado_Recuo_Primeira_Linha {font-size:12pt;font-family:Calibri;text-indent:25mm;text-align:justify;word-wrap:normal;margin:6pt;} p.Texto_Justificado_Recuo_Primeira_Linha_Esp_Simples {font-size:12pt;font-family:Calibri;text-indent:25mm;text-align:justify;word-wrap:normal;margin:0 0 0 6pt;} 
+</style><title>SEI/UFF - 2006878 - REQ DE AFASTAMENTO - AÇÃO DESENVOLVIMENTO PAÍS</title>
+</head>
+<body>
+<p class="Texto_Centralizado_Cabecalho"><img alt="Timbre" src="data:image/png;base64,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"></p>
+
+<p class="Texto_Centralizado_Cabecalho"><strong>MINISTÉRIO DA EDUCAÇÃO</strong><br>
+<strong>UNIVERSIDADE FEDERAL FLUMINENSE</strong></p>
+
+<p class="Texto_Centralizado_Cabecalho">Pró-Reitoria de Gestão de Pessoas</p>
+
+<p class="Texto_Centralizado_Cabecalho">&nbsp;</p>
+<p class="Texto_Centralizado_Maiusculas"><a name="_Hlk508835409"></a> <b>REQUERIMENTO DE AFASTAMENTO PARA AÇÃO DE DESENVOLVIMENTO NO PAÍS</b></p>
+<p class="Texto_Justificado_Recuo_Primeira_Linha">Senhor(a) Pró-Reitor(a),</p>
+
+<p class="Texto_Justificado_Recuo_Primeira_Linha">&nbsp;</p>
+
+<p class="Texto_Justificado_Recuo_Primeira_Linha">Venho requerer&nbsp;afastamento para ação de desenvolvimento no País, conforme os dados a seguir:</p>
+
+<p class="Texto_Justificado_Recuo_Primeira_Linha">&nbsp;</p>
+
+<p class="Texto_Fundo_Cinza_Maiusculas_Negrito"><b>IDENTIFICAÇÃO DO SERVIDOR</b></p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="margin-left: 3pt; margin-right: auto; width: 872px;">
+	<tbody>
+		<tr>
+			<td colspan="2" style="width: 864px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>Nome:&nbsp;</strong></p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">chave_01</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 864px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>Matrícula SIAPE:&nbsp;</strong><br>
+			chave_02</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 864px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>Cargo de ocupação:</strong><br>
+			chave_03</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 535px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>Unidade de Lotação:</strong><br>
+			Departamento de Ciência da Computação</p>
+			</td>
+			<td style="width: 324px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>Sigla:</strong><br>
+			TCC</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 535px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>Unidade acadêmica/administrativa hierarquicamente superior:</strong></p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">Instituto de Computação</p>
+			</td>
+			<td style="width: 324px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>Sigla:</strong></p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">TIC</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 864px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>Telefones:</strong><br>
+			chave_04</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 864px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>E-mail:</strong><br>
+			chave_05</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 864px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>E-mail da unidade de lotação:</strong></p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">chefia-dcc@ic.uff.br</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 864px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>E-mail da unidade acadêmica/administrativa hierarquicamente superior:</strong></p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">direcao@ic.uff.br</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 864px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>Exerce chefia?</strong></p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">(&nbsp; x&nbsp; ) Não 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; ( &nbsp; &nbsp;) Sim &nbsp;Qual?&nbsp; 
+&nbsp;[digite aqui o nome da função de confiança]</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>Em caso afirmativo,
+ e se a Licença for superior ao período de 30 (trinta) dias, informar 
+aqui o número do processo de pedido de exoneração ou dispensa da chefia,
+ a contar da data de início do usufruto:</strong></p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">[digite aqui o nº do processo]</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p class="Texto_Alinhado_Esquerda">&nbsp;</p>
+
+<p class="Texto_Fundo_Cinza_Maiusculas_Negrito"><strong>NATUREZA DO AFASTAMENTO</strong></p>
+
+<p class="Texto_Justificado"><sub><strong>* Marque apenas uma opção de natureza do afastamento</strong></sub></p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="margin-left: auto; margin-right: auto; width: 872px;">
+	<tbody>
+		<tr>
+			<td colspan="3" style="width: 83px; background-color: rgb(204, 204, 204);">
+			<p class="Texto_Justificado"><strong>Com ônus</strong> - manutenção do salário e com despesas pagas pela Administração Federal</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">(&nbsp; chave_13&nbsp; ) UFF</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+			</td>
+			<td colspan="2" rowspan="1">
+			<p class="Tabela_Texto_Alinhado_Esquerda">chave_18</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">(&nbsp; chave_14&nbsp; ) Agência de Fomento/<strong>Instituição Brasileira Federal</strong></p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+			</td>
+			<td colspan="2" rowspan="1">
+			<p class="Tabela_Texto_Alinhado_Esquerda">chave_19</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:872px;">
+	<tbody>
+		<tr>
+			<td colspan="3" style="width: 83px; background-color: rgb(204, 204, 204);">
+			<p class="Texto_Justificado"><strong>Com ônus limitado</strong> - manutenção do salário e com despesas pagas com recursos de:</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" style="vertical-align: middle; text-align: center;">
+			<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">(&nbsp; chave_15&nbsp; ) próprio requerente</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">(&nbsp; chave_16&nbsp; ) Agência de Fomento/<strong>Instituição Brasileira não federal</strong></p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+			</td>
+			<td colspan="2" rowspan="1">
+			<p class="Tabela_Texto_Alinhado_Esquerda">chave_20</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 874px;">
+	<tbody>
+		<tr>
+			<td colspan="3" style="width: 864px;">
+			<p class="Texto_Justificado">&nbsp;</p>
+
+			<p class="Texto_Justificado">(&nbsp; chave_17&nbsp; ) <strong>Sem ônus</strong> - sem salário e sem qualquer despesa paga por órgão da Administração Federal</p>
+
+			<p class="Texto_Justificado">&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p class="Texto_Justificado">&nbsp;</p>
+
+<p class="Texto_Fundo_Cinza_Maiusculas_Negrito"><b>DADOS DO AFASTAMENTO</b></p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="margin-left: auto; margin-right: auto; width: 873px;">
+	<tbody>
+		<tr>
+			<td colspan="2" style="width: 863px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">(&nbsp; &nbsp; ) Mestrado</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">(&nbsp; &nbsp; ) Doutorado</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">(&nbsp; &nbsp; ) Pós-Doutorado</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">(&nbsp; &nbsp; ) Aperfeiçoamento/Especialização</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">(&nbsp; &nbsp; ) Intercâmbio cultural, científico ou tecnológico</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">(&nbsp; &nbsp; ) 
+Treinamento em serviço em órgão ou entidade da administração pública 
+direta ou indireta da esfera federal, estadual ou municipal</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">(&nbsp; &nbsp; ) Congressos e congêneres</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">(&nbsp; &nbsp; ) Outro: &nbsp;</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda"><sup><strong>* Marque apenas uma opção</strong></sup></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 863px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>Denominação do curso de Mestrado ou Doutorado:</strong><br>
+			[digite aqui o nome do curso a ser realizado]</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 863px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><b>Conceito CAPES:&nbsp;<sup>* apenas nas modalidades Mestrado e Doutorado</sup></b></p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">[digite aqui o conceito CAPES do curso]</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 863px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>Denominação do Pós-Doutorado/Evento/Programa de Intercâmbio/Estágio:</strong><br>
+			[digite aqui o nome]</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 863px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>Instituição(ões) de destino:</strong></p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">chave_06</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>Cidade:</strong><br>
+			chave_07</p>
+			</td>
+			<td style="width: 456px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><b>Estado:</b></p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">chave_08</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 863px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>Data de início do evento:</strong></p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">chave_09</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 863px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>Data de término do evento:</strong></p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">chave_10</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 863px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>Data de início do afastamento:</strong></p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">chave_11</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 863px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda"><strong>Data de término do afastamento:</strong></p>
+
+			<p class="Tabela_Texto_Alinhado_Esquerda">chave_12</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p class="Texto_Justificado"><sup><strong>* Caso necessite de mais um dia para trânsito, será obrigatória a apresentação de justificativa com ciência da chefia imediata.</strong></sup></p>
+
+<p class="Texto_Justificado">&nbsp;</p>
+
+<p class="Texto_Fundo_Cinza_Maiusculas_Negrito"><strong>DOCUMENTOS NECESSÁRIOS PARA CADA FINALIDADE:</strong></p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 883px;">
+	<tbody>
+		<tr>
+			<td>
+			<p class="Tabela_Texto_Centralizado">FINALIDADE</p>
+			</td>
+			<td style="width: 506px;">
+			<p class="Tabela_Texto_Centralizado">DOCUMENTAÇÃO NECESSÁRIA</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 362px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda">Pós-graduação stricto sensu no País (mestrado, doutorado ou pós-doutorado)</p>
+			</td>
+			<td style="width: 506px;">
+			<ul>
+				<li>
+				<p class="Tabela_Texto_Alinhado_Esquerda">Declaração de aluno 
+regularmente matriculado, informando a data de início e de término 
+(prazo máximo) do mestrado/doutorado e o conceito do curso junto à 
+CAPES; ou</p>
+				</li>
+				<li>
+				<p class="Tabela_Texto_Alinhado_Esquerda">Declaração de aprovação na
+ seleção por edital ou por comitê, informando a data de início e de 
+término do pós-doutorado, assinada por autoridade 
+acadêmico-administrativa da instituição de destino;</p>
+				</li>
+				<li>
+				<p class="Tabela_Texto_Alinhado_Esquerda">Declaração de concessão de
+ bolsa de estudos/pesquisa, com especificação da vigência (mês e ano de 
+início e de término), se for o caso;</p>
+				</li>
+				<li>
+				<p class="Tabela_Texto_Alinhado_Esquerda">Cópia do pedido de 
+exoneração do cargo em comissão ou dispensa da função de confiança, a 
+contar da data de início de afastamento, quando for o caso.</p>
+				</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 362px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda">Curso de aperfeiçoamento e de especialização</p>
+			</td>
+			<td style="width: 506px;">
+			<ul>
+				<li>
+				<p class="Tabela_Texto_Alinhado_Esquerda">Declaração de matrícula, 
+informando a data de início e de término do curso de aperfeiçoamento ou 
+especialização, assinada por autoridade acadêmico-administrativa da 
+instituição de destino;</p>
+				</li>
+				<li>
+				<p class="Tabela_Texto_Alinhado_Esquerda">Programa do curso com 
+comprovação de carga horária semanal superior a 30 (trinta) horas e/ou 
+documento comprobatório de atividade que demande dedicação de carga 
+horária semanal superior a 30 (trinta) horas;</p>
+				</li>
+				<li>
+				<p class="Tabela_Texto_Alinhado_Esquerda">Comprovação de concessão 
+de bolsa ou auxílio, com especificação dos itens financiados e da 
+vigência (início e término), quando for o caso;</p>
+				</li>
+				<li>
+				<p class="Tabela_Texto_Alinhado_Esquerda">Cópia do pedido de 
+exoneração do cargo em comissão ou dispensa da função de confiança, a 
+contar da data de início de afastamento, quando for o caso.</p>
+				</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 362px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda">Intercâmbio cultural, científico ou tecnológico</p>
+			</td>
+			<td style="width: 506px;">
+			<ul>
+				<li>
+				<p class="Tabela_Texto_Alinhado_Esquerda">Carta-convite ou de aceite
+ emitida por autoridade administrativa da instituição de destino ou 
+responsável pela gestão do Acordo/Convênio de Cooperação Cultural, 
+científica ou tecnológica, informando o período de realização do 
+intercâmbio (data de início e de término) e descrevendo as 
+atividades/programação a serem desenvolvidas;</p>
+				</li>
+				<li>
+				<p class="Tabela_Texto_Alinhado_Esquerda">Cópia de Acordo/Convênio 
+de Cooperação cultural, científica ou tecnológica que comprove que as 
+atividades a serem desenvolvidas estão nele contempladas ou a 
+manifestação do interesse em estabelecê-lo, assinada pelo titular da 
+PROGEPE;</p>
+				</li>
+				<li>
+				<p class="Tabela_Texto_Alinhado_Esquerda">Comprovação de concessão 
+de bolsa ou auxílio, com especificação dos itens financiados e da 
+vigência (início e término), quando for o caso;</p>
+				</li>
+				<li>
+				<p class="Tabela_Texto_Alinhado_Esquerda">Cópia do pedido de 
+exoneração do cargo em comissão ou dispensa da função de confiança, a 
+contar da data de início do afastamento, quando for o caso.</p>
+				</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 362px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda">Treinamento em serviço em 
+órgão ou entidade da administração pública direta ou indireta da esfera 
+federal, estadual ou municipal&nbsp;</p>
+			</td>
+			<td style="width: 506px;">
+			<ul>
+				<li>
+				<p class="Tabela_Texto_Alinhado_Esquerda">Acordo de Cooperação 
+Técnica assinado pela autoridade competente da UFF e do órgão/entidade 
+envolvido(a) ou instrumento aplicável;</p>
+				</li>
+				<li>
+				<p class="Tabela_Texto_Alinhado_Esquerda">Plano de Trabalho 
+elaborado pelo servidor em comum acordo com o supervisor da atividade e 
+assinado por ambos, contendo a descrição de: a) objetivos da ação na 
+perspectiva de desenvolvimento do servidor; b) resultados a serem 
+apresentados ao órgão ou entidade onde será realizada a ação; c) período
+ de duração da ação; d) carga horária semanal (superior a trinta horas);</p>
+				</li>
+				<li>
+				<p class="Tabela_Texto_Alinhado_Esquerda">Carta-convite ou de aceite
+ do responsável pelo acompanhamento do servidor no órgão ou entidade 
+onde será realizada a atividade, com identificação do nome e cargo, e 
+especificação da duração (período de realização);</p>
+				</li>
+				<li>
+				<p class="Tabela_Texto_Alinhado_Esquerda">Cópia do pedido de 
+exoneração do cargo em comissão ou dispensa da função de confiança, a 
+contar da data de início do afastamento, quando for o caso.</p>
+				</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 362px;">
+			<p class="Tabela_Texto_Alinhado_Esquerda">Congressos e congêneres no País</p>
+			</td>
+			<td style="width: 506px;">
+			<ul>
+				<li>
+				<p class="Tabela_Texto_Alinhado_Esquerda">Declaração de aceite do 
+trabalho ou convite para participar do evento nacional, emitido por 
+autoridade representativa do comitê organizador, ou comprovante de 
+inscrição, no caso de participação como ouvinte;</p>
+				</li>
+				<li>
+				<p class="Tabela_Texto_Alinhado_Esquerda">Programa do evento informando o local, o período e as atividades;</p>
+				</li>
+				<li>
+				<p class="Tabela_Texto_Alinhado_Esquerda">Comprovação de concessão 
+de auxílio, com especificação dos itens financiados (passagens e/ou 
+diárias), período e a fonte de recursos, no caso de com ônus UFF 
+(inclusive recursos geridos pela Fundação Euclides da Cunha ou pelo 
+Programa de Pós-graduação - CAPES/PROAP ou recursos próprios de 
+arrecadação), quando for o caso.</p>
+				</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p class="Tabela_Texto_Alinhado_Esquerda">&nbsp;</p>
+
+<p class="Texto_Fundo_Cinza_Maiusculas_Negrito">OBSERVAÇÃO:&nbsp;</p>
+
+<p class="Texto_Justificado">Acrescenta-se ainda:</p>
+
+<p class="Paragrafo_Numerado_Nivel1">Termo de Compromisso de afastamento para capacitação ou qualificação no País;</p>
+
+<p class="Paragrafo_Numerado_Nivel1">Despacho de deferimento da chefia 
+para afastamento no País (superior a 15 dias); ou Autorização da chefia 
+para afastamento no País (inferior a 15 dias);</p>
+
+<p class="Paragrafo_Numerado_Nivel1">Ata departamental, para afastamentos maiores que 15 (quinze) dias, no caso de servidor docente;</p>
+
+<p class="Paragrafo_Numerado_Nivel1">Formulário de Solicitação de Diária e Passagem do SCDP preenchido;</p>
+
+<p class="Paragrafo_Numerado_Nivel1">Termo de Renúncia de Diárias e Passagens, quando for o caso.</p>
+
+<p class="Texto_Alinhado_Esquerda_Espacamento_Simples"><br>
+Nestes termos,</p>
+
+<p class="Texto_Alinhado_Esquerda_Espacamento_Simples">pede deferimento.</p>
+
+<div style="counter-reset: paragrafo-n1;"></div>
+
+</body></html>
