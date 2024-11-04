@@ -24,6 +24,8 @@ Primeira etapa: Apresentação do plano de trabalho. No prazo de até 60 (sessen
 
 Aproveitamos para reforçar a importância de estar atento a todas as etapas do processo de Avaliação do Estágio Probatório e ficamos à disposição.
 
+Por favor, confirme o recebimento do e-mail.
+
 Att
 Chefia do TCC
 

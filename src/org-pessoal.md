@@ -9,7 +9,7 @@
 1. CHEFE: Andre Maues Brabo Pereira.
 1. SUB-CHEFE: Igor Machado Coelho.
 
-### Docentes
+### Docentes (Professores Efetivos)
 1. ALEXANDRE PLASTINO DE CARVALHO
 1. ALINE DE PAULA NASCIMENTO
 1. ALINE MARINS PAES CARVALHO
@@ -26,7 +26,6 @@
 1. DANIELA GORSKI TREVISAN
 1. DANTE CORBUCCI FILHO
 1. DEBORA CHRISTINA MUCHALUAT SAADE
-1. [DIEGO GIMENEZ PASSOS](./pessoal/dpassos.md) *
 1. ESTEBAN WALTER GONZALEZ CLUA
 1. EUGENE FRANCIS VINOD REBELLO
 1. FABIO PROTTI
@@ -53,7 +52,7 @@
 1. LUIS ANTONIO BRASIL KOWADA
 1. LUIS FELIPE IGNACIO CUNHA
 1. LUIZ ANDRE PORTES PAES LEME
-1. LUIZ CLAUDIO FREDERICO FERNANDEZ, Substituto
+1. LUIZ FERNANDO BEZ
 1. [LUIZ SATORU OCHI](./pessoal/satoru.md)
 1. MARCELO FORNAZIN, 20H
 1. MARCO ANTONIO MONTEIRO SILVA RAMOS
@@ -68,6 +67,7 @@
 1. RAPHAEL CARLOS SANTOS MACHADO, 20H
 1. RAPHAEL PEREIRA DE OLIVEIRA GUERRA
 1. RAQUEL DE SOUZA FRANCISCO BRAVO
+1. REBECA CAMPOS MOTTA
 1. RICARDO LEIDERMAN
 1. RODRIGO SALVADOR MONTEIRO
 1. SIMONE DE LIMA MARTINS
@@ -78,11 +78,16 @@
 1. [VANIA DE OLIVEIRA NEVES](./pessoal/vania.md)
 1. [YURI ABITBOL DE MENEZES FROTA](./pessoal/yuri.md)
 
-### Ex-Docentes
+### Docentes (Professores Substitutos)
+1. Gyslla Santos de Vasconcelos
+1. Heleno de Souza Campos Junior
+1. Maurício da Silva Pires
 
-- [Andréa Magdaleno Magalhães](./pessoal/ex/Andrea.md)
+### Ex-Docentes
+- Andréa Magdaleno Magalhães
 - Celso da Cruz Carneiro Ribeiro
 - Cristina Nader Vaconcelos
+- Diego Gimenez Passos
 - José Henrique Carneiro de Araújo
 - Karina Mochetti Magalhães
 - Luis Marti Orosa
