@@ -1,6 +1,6 @@
 # Processo de Afastamento no PAIS, INF. 15 dias
 
-Para geração rápida dos arquivos nesse fluxo, utilize o script em python [autoforms-script](./thirdparty/autoforms-script).
+Para geração rápida dos arquivos nesse fluxo, utilize o script em python [autoforms-script](./thirdparty/autoforms-script) ou solicite apoio da Secretaria, registrando a solicitação no [formulário de apoio](https://forms.gle/89QvyQkXQ6yeMkMH9) com conta @icuff.
 
 ## Fluxo de atividades no TCC:
 - O professor cria o processo, insere os formulários e atribui o __processo__ para a chefia do TCC (ver __INFORMAÇÕES IMPORTANTES DO PROCESSO__);
