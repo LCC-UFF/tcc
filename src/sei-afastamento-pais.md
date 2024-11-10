@@ -1,5 +1,7 @@
 # Processo de Afastamento no PAIS, INF. 15 dias
 
+Para geração rápida dos arquivos nesse fluxo, utilize o script em python [autoforms-script](./thirdparty/autoforms-script).
+
 ## Fluxo de atividades no TCC:
 - O professor cria o processo, insere os formulários e atribui o __processo__ para a chefia do TCC (ver __INFORMAÇÕES IMPORTANTES DO PROCESSO__);
 - A chefia do TCC cria e inclui o DEFERIMENTO AFAST. NO PAÍS DOCENTE INF. 15 (ver __CRIAÇÃO DO DEFERIMENTO__);
