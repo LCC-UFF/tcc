@@ -62,6 +62,16 @@ O CHEFE DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUM
 - Verificar a inclusão e assinatura do docente no seguinte documento: 
 RELATÓRIO DE ATIVIDADES DESENVOLVIDAS NO AFASTAMENTO NO PAÍS OU EXTERIOR PARA CAPACITAÇÃO OU QUALIFICAÇÃO
 
+- Adicionar Despacho TCC:
+
+~~~
+O CHEFE DO DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO DA UNIVERSIDADE FEDERAL FLUMINENSE, no uso de suas atribuições legais e regulamentares, examinando os autos do Processo em epígrafe, e tomando providência para a conclusão deste processo de afastamento, informa que:
+- O relatório da docente já foi assinado;
+- A docente inseriu os documentos comprobatórios;
+- A docente retornou às suas atividades neste departamento.
+~~~
+
+
 ---
 
 ### Referências:
