@@ -12,7 +12,7 @@ Ciência da Computação  |TGI   |Luis Antonio Brasil Kowada         |Loana Tito
 Engenharia Ambiental   |TGH   |Helena Cristina da Gama Leitao     |Aline de Paula Nascimento          |DTS nº 12/2019 
 Engenharia Agrícola    |TGR   |Leandro Santiago                   |Taiane Ramos                       |DTS nº 08/2023 
 Engenharia Civil       |TGC   |Pedro Cortez Fetter Lopes          |Eugene Vinod Rebello               |DTS nº 03/2024
-Engenharia de Produção |TGP   |Carlos Alberto de Jesus Martinhon  |Anselmo Antunes Montenegro         |DTS nº 07/2021
+*Engenharia de Produção |TGP   |Marcos Vinicius Naves Bedo         |Anselmo Antunes Montenegro         |DTS nº 15/2024
 Engenharia de Telecom  |TGT   |Débora Cristina Muchaluat Saade    |Célio Vinicius de Albuquerque      |DTS nº 04/2021
 Engenharia de Petróleo |TGO   |Taiane Coelho Ramos                |Leandro Augusto Frata Fernandes    |DTS nº 05/2024
 Engenharia Elétrica    |TGE   |Dante Corbucci Filho               |Luís Felipe Ignácio Cunha          |DTS nº 09/2022
