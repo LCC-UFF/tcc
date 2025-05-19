@@ -142,6 +142,8 @@ Dia 3 (XX/XX/2024) 09:00h - Sorteio da ordem de apresentação da prova didátic
 
 ### Nona Etapa: Concurso
 
+- IMPORTANTE: observar demais normas na [Resolução CEP 264 de 2015](https://www.editais.uff.br/sites/default/files/arquivos/resolu%C3%A7%C3%A3o%20CEP%20264%20de%202015.pdf).
+
 1. Para o concurso, é necessário imprimir no site da CPD (Seleção Simplificada -> Bancas -> ESCOLHER BANCA -> Provas -> ...):
     - as folhas de folha que tem a capa personalizada para cada candidato (normalmente só vem a capa e mais um rascunho)
     - folhas extras para a prova (igual a de rascunho); definir quantitativo com a banca (exemplo, 1 rascunho + 4 de prova, além da capa)
