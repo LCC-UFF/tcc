@@ -83,7 +83,13 @@ Inicie um novo concurso no Sistema CPD (precisa ser CHEFE com poderes para isso)
    - Preenche data de aprovação da Ata
    - Assina TCC e tb TIC
 1. Anexa Relatório (RelatorioFormulario2), anexa Relatório (RelatorioFormulario3) 
-1. Atribui/despacha para CPD, que responderá com a autorização do concurso (tipicamente para 12 meses)
+1. Atribui/despacha para CPD, que responderá com a autorização do concurso (tipicamente para 12 meses, mas eventualmente 6 meses... observar retorno da CPD!)
+- Exemplo de Despacho:
+```
+TCC, XX de Maio de 2025
+1. Processo para Solicitação de Abertura de Seleção Simplificada para Professor Substituto, decorrente de aposentadoria da professora XXXXXXX 40 horas;
+2. Encaminhamos o presente processo à DGLD/CPD para prosseguimento.
+```
 
 ### Quinta Etapa: finalizar cronograma e barema
 
