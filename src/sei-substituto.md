@@ -94,6 +94,7 @@ Inicie um novo concurso no Sistema CPD (precisa ser CHEFE com poderes para isso)
         * Dica: colocar DUAS semanas cheias, para garantir
     -  mínimo de 5 dias antes do começo das inscrições (tentar colocar 1 semana ou mais)
     -  colocar um prazo para recurso após término de inscrições e início do concurso (precisa 2 dias, mas o ideal é uns 5 dias)
+    -  O MINIMO ABSOLUTO de prazo são 15 dias corridos + 4 dias úteis, ou seja, aprox 21 dias corridos (sem feriados) antes do início do concurso
 3. Veja exemplo de cronograma
 
 ```
