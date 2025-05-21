@@ -122,7 +122,7 @@ Dia 3 (XX/XX/2024) 09:00h - Sorteio da ordem de apresentação da prova didátic
 5. Entrar na banca e adicionar CPF (ver no app SouGov) do secretário e dos membros (3 titulares e 1 suplente, de acordo com DTS)
     - Caso dê erro, talvez o secretário não tenha ainda cadastro no sistema da CPD (com "papel" de secretário)
 6. Ir em "Ações na Banca" e "Definir Presidente" 
-7. Enviar email à CPD/concursos para solicitar o andamento à construção do Edital em PDF (geralmente é super rápido, e colocam diretamente no SEI!)
+7. Enviar email à CPD/concursos (basta responder ao email "Inserção de banca, datas e cronograma detalhado") para solicitar o andamento à construção do Edital em PDF (geralmente é super rápido, e colocam diretamente no SEI! Pedem 5 dias corridos.)
 8. IMPORTANTE: Solicitar ao Instituto a alocação de sala para os dias de banca, preferencialmente, o dia todo (manhã e tarde)
    
 ### Sétima Etapa: acompanhar e homologar inscrições
