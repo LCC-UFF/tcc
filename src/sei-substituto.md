@@ -166,11 +166,12 @@ Dia 3 (XX/XX/2024) 09:00h - Sorteio da ordem de apresentação da prova didátic
     - Somente a prova escrita é eliminatória! As demais são classificatórias (embora a falta da prova poderá excluir o candidato)
 7. No dia seguinte, é feito o sorteio da prova didática, e são recebidas as comprovações de currículo
 8. O sistema permite imprimir a lista de presença da prova didática
-9. A nota da prova didática é lançada junto com a de currículo
-10. Afixar também na janela da secretaria o resultado dessa etapa, bem como a nota final gerada pelo sistema
-11. O sistema gera uma Ata de Concurso, bem como Mapa de Notas
-12. Anexar documentos relevantes como Ata de Concurso, Listas de Presença escaneadas, Mapa de Nota, e colocar tudo no SEI
-13. Está finalizado o concurso!
+9. Para a Prova Didática, atentar para os 4 (QUATRO) critérios da INSTRUÇÃO NORMATIVA PROGEPE/UFF No 34, DE 16 DE MAIO DE 2024
+10. A nota da prova didática é lançada junto com a de currículo
+11. Afixar também na janela da secretaria o resultado dessa etapa, bem como a nota final gerada pelo sistema
+12. O sistema gera uma Ata de Concurso, bem como Mapa de Notas
+13. Anexar documentos relevantes como Ata de Concurso, Listas de Presença escaneadas, Mapa de Nota, e colocar tudo no SEI
+14. Está finalizado o concurso!
 
 
 Veja [Fluxo no SEI](https://www.uff.br/sites/default/files/base_de_conhecimento_de_selecao_simplificada_para_contratacao_de_professor_substituto_v.2.pdf)
