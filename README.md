@@ -39,5 +39,17 @@ Informações sobre o **Departamento de Ciência da Computação** da UFF.
 - [Lembrete: 4) Sobre Avaliação Continuada](src/out-lembrete-4.md).
 - [Lembrete: 5) Sobre Avaliação Estágio Probatório](src/out-lembrete-5.md).
 
+## Documentação Geral da UFF
+
+- Estatuto da UFF - 02/05/1983 - DOU 05/05/83
+   * Artigos 1 a 69 - 20 páginas
+   * [estatuto-regimento-uff.pdf](https://www.uff.br/wp-content/uploads/2023/06/estatuto-regimento-uff.pdf)
+- Regimento Geral da UFF - 02/05/1983 - DOU 05/05/83
+   * Artigos 1 a 128 - 25 páginas
+   * [estatuto-regimento-uff.pdf](https://www.uff.br/wp-content/uploads/2023/06/estatuto-regimento-uff.pdf)
+- Regulamento dos Cursos de Graduação - 14/01/2015 - Resolução 001/2015
+   * Artigos 1 a 142 - 69 páginas
+   * [001-2015_regulamento_do_curso_de_graduacao_0.pdf](https://www.uff.br/wp-content/uploads/2023/07/001-2015_regulamento_do_curso_de_graduacao_0.pdf)
+  
 ---
 Editado usando https://dillinger.io/
