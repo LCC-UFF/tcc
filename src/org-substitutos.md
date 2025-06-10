@@ -7,5 +7,7 @@
 ### Concurso Substituto
 Como realizar o concurso?
 
+- Veja [Processo SEI Concurso Substituto no Git](https://github.com/LCC-UFF/tcc/blob/main/src/sei-substituto.md)
+
 
 
