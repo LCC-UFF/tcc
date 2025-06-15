@@ -28,6 +28,7 @@ Informações sobre o **Departamento de Ciência da Computação** da UFF.
 - [Afastamento no Exterior, INF 15 dias](src/sei-afastamento-exterior.md).
 - [Concurso de Professor Substituto](src/sei-substituto.md).
 - [Regime Excepcional de Aprendizagem](src/sei-regime-aprendizagem.md).
+- [Link de ACESSO PUBLICO no SEI](https://sei.uff.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0)
 
 ## Outros
 - [Revisão de Prova](src/out-revisao-prova.md)
