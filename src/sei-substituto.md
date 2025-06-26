@@ -170,8 +170,24 @@ Dia 3 (XX/XX/2024) 09:00h - Sorteio da ordem de apresentação da prova didátic
 10. A nota da prova didática é lançada junto com a de currículo
 11. Afixar também na janela da secretaria o resultado dessa etapa, bem como a nota final gerada pelo sistema
 12. O sistema gera uma Ata de Concurso, bem como Mapa de Notas
-13. Anexar documentos relevantes como Ata de Concurso, Listas de Presença escaneadas, Mapa de Nota, e colocar tudo no SEI
-14. Está finalizado o concurso!
+
+### Décima Etapa: Finalização no SEI
+1. Anexar documentos relevantes como Ata de Concurso, Listas de Presença escaneadas, Mapa de Nota, e colocar tudo no SEI
+2. Lembrar de assinar o documento de titulação dos candidatos aprovados
+3. Pedir para banca assinar e dar ciência em todos documentos pdf anexados
+4. Adicionar despacho final
+
+```
+TCC, em XX/XX/2024
+
+Ao DGLD/CPD, informamos que inserimos: Ata do Concurso, Listas de Presença, Mapa de Notas, Relatório de Candidatos habilitados e classificados, e finalmente, as Declarações de Compatibilidade de Titulação.
+
+Encaminhamos o presente processo à DGLD/CPD para homologação dos resultados.
+
+Atenciosamente,
+```
+
+5. Está finalizado o concurso!
 
 
 Veja [Fluxo no SEI](https://www.uff.br/sites/default/files/base_de_conhecimento_de_selecao_simplificada_para_contratacao_de_professor_substituto_v.2.pdf)
