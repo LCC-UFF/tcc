@@ -168,6 +168,7 @@ Dia 3 (XX/XX/2024) 09:00h - Sorteio da ordem de apresentação da prova didátic
 8. O sistema permite imprimir a lista de presença da prova didática
 9. Para a Prova Didática, atentar para os 4 (QUATRO) critérios da INSTRUÇÃO NORMATIVA PROGEPE/UFF No 34, DE 16 DE MAIO DE 2024
 10. A nota da prova didática é lançada junto com a de currículo
+     - Importante: NÃO DAR FALTA para os candidatos Não Habilitados da escrita na prova de currículo, apenas nota zero
 11. Afixar também na janela da secretaria o resultado dessa etapa, bem como a nota final gerada pelo sistema
 12. O sistema gera uma Ata de Concurso, bem como Mapa de Notas
 
