@@ -23,6 +23,7 @@ Informações sobre o **Departamento de Ciência da Computação** da UFF.
 ## Processos no SEI
 - [Gestão dos Processos](src/sei-gestao-processos.md).
 - [Dispensa de Disciplinas](src/sei-dispensa-disciplinas.md).
+- [Exame de Proficiência](src/proficiencia.md).
 - [Progressão Docente](src/sei-progressao.md).
 - [Afastamento no Pais, INF 15 dias](src/sei-afastamento-pais.md).
 - [Afastamento no Exterior, INF 15 dias](src/sei-afastamento-exterior.md).
