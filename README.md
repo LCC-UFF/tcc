@@ -19,6 +19,7 @@ Informações sobre o **Departamento de Ciência da Computação** da UFF.
 - Cursos de Graduação Atendidos
 - Disciplina de TCC
 - [Processo de Quadro de Horários](src/disc-qh.md)
+- [Processo de Criação ou Alteração de Disciplinas](src/criacao-alteracao-disciplinas.md)
 
 ## Processos no SEI
 - [Gestão dos Processos](src/sei-gestao-processos.md).
