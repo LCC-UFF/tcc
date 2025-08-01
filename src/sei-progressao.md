@@ -1,5 +1,9 @@
 # Processo de Progressão Docente (TCC-UFF) - Fluxo de Adjunto
 
+Processo migrado para o classroom: https://docs.google.com/document/d/1b8CtwwK7cnoantdvqqutKC2HunLjx28ZPJL7-dkf3N4/edit?usp=sharing
+
+Acesso restrito aos professores do IC-UFF.
+
 De acordo com Lei 12.772 e MP/2013.
 
 Existem as seguintes classes/níveis:
